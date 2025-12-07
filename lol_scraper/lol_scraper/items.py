@@ -6,7 +6,8 @@
 import scrapy
 
 
-class LolScraperItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class LeagueOfGraphsItem(scrapy.Item):
+    match_id = scrapy.Field()
+    winner = scrapy.Field()
+    team_1 = scrapy.Field()
+    team_2 = scrapy.Field()

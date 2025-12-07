@@ -1,7 +1,11 @@
 [
     {
-        "match_id": "7945978499",
-        "winner": "team_1",
+        "match_id": [
+            "7945978499"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -18,8 +22,12 @@
         ]
     },
     {
-        "match_id": "7946404021",
-        "winner": "team_1",
+        "match_id": [
+            "7946404021"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -36,8 +44,12 @@
         ]
     },
     {
-        "match_id": "7944429484",
-        "winner": "team_1",
+        "match_id": [
+            "7944429484"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Lee Sin",
@@ -54,8 +66,12 @@
         ]
     },
     {
-        "match_id": "7946314846",
-        "winner": "team_1",
+        "match_id": [
+            "7946314846"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -72,8 +88,12 @@
         ]
     },
     {
-        "match_id": "7944363144",
-        "winner": "team_1",
+        "match_id": [
+            "7944363144"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Hecarim",
@@ -90,8 +110,12 @@
         ]
     },
     {
-        "match_id": "7945262757",
-        "winner": "team_2",
+        "match_id": [
+            "7945262757"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Yone",
             "Jayce",
@@ -108,8 +132,12 @@
         ]
     },
     {
-        "match_id": "7944183695",
-        "winner": "team_2",
+        "match_id": [
+            "7944183695"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -126,8 +154,12 @@
         ]
     },
     {
-        "match_id": "7945167144",
-        "winner": "team_1",
+        "match_id": [
+            "7945167144"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Riven",
             "Ambessa",
@@ -144,8 +176,12 @@
         ]
     },
     {
-        "match_id": "7944120055",
-        "winner": "team_2",
+        "match_id": [
+            "7944120055"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gangplank",
             "Jayce",
@@ -162,8 +198,12 @@
         ]
     },
     {
-        "match_id": "7944943217",
-        "winner": "team_1",
+        "match_id": [
+            "7944943217"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Ambessa",
@@ -180,8 +220,12 @@
         ]
     },
     {
-        "match_id": "7943611449",
-        "winner": "team_2",
+        "match_id": [
+            "7943611449"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -198,8 +242,12 @@
         ]
     },
     {
-        "match_id": "7944799199",
-        "winner": "team_2",
+        "match_id": [
+            "7944799199"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Kled",
             "Aatrox",
@@ -216,8 +264,12 @@
         ]
     },
     {
-        "match_id": "7941256256",
-        "winner": "team_1",
+        "match_id": [
+            "7941256256"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -234,8 +286,12 @@
         ]
     },
     {
-        "match_id": "7944503618",
-        "winner": "team_1",
+        "match_id": [
+            "7944503618"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Zyra",
@@ -252,8 +308,12 @@
         ]
     },
     {
-        "match_id": "7941189457",
-        "winner": "team_2",
+        "match_id": [
+            "7941189457"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Nidalee",
@@ -270,8 +330,12 @@
         ]
     },
     {
-        "match_id": "7944451400",
-        "winner": "team_1",
+        "match_id": [
+            "7944451400"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Qiyana",
@@ -288,8 +352,12 @@
         ]
     },
     {
-        "match_id": "7941119239",
-        "winner": "team_1",
+        "match_id": [
+            "7941119239"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Nunu & Willump",
@@ -306,8 +374,12 @@
         ]
     },
     {
-        "match_id": "7944056585",
-        "winner": "team_1",
+        "match_id": [
+            "7944056585"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Elise",
@@ -324,8 +396,12 @@
         ]
     },
     {
-        "match_id": "7943521479",
-        "winner": "team_1",
+        "match_id": [
+            "7943521479"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Qiyana",
@@ -342,8 +418,12 @@
         ]
     },
     {
-        "match_id": "7945345860",
-        "winner": "team_2",
+        "match_id": [
+            "7945345860"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Wukong",
             "Sylas",
@@ -360,8 +440,12 @@
         ]
     },
     {
-        "match_id": "7945244886",
-        "winner": "team_1",
+        "match_id": [
+            "7945244886"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Warwick",
             "Sylas",
@@ -378,8 +462,12 @@
         ]
     },
     {
-        "match_id": "7947755713",
-        "winner": "team_2",
+        "match_id": [
+            "7947755713"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Qiyana",
@@ -396,8 +484,12 @@
         ]
     },
     {
-        "match_id": "7946612765",
-        "winner": "team_1",
+        "match_id": [
+            "7946612765"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Ivern",
@@ -414,8 +506,12 @@
         ]
     },
     {
-        "match_id": "7947712155",
-        "winner": "team_1",
+        "match_id": [
+            "7947712155"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Diana",
@@ -432,8 +528,12 @@
         ]
     },
     {
-        "match_id": "7940888752",
-        "winner": "team_1",
+        "match_id": [
+            "7940888752"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -450,8 +550,12 @@
         ]
     },
     {
-        "match_id": "7947670702",
-        "winner": "team_2",
+        "match_id": [
+            "7947670702"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -468,8 +572,12 @@
         ]
     },
     {
-        "match_id": "7940854659",
-        "winner": "team_2",
+        "match_id": [
+            "7940854659"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -486,8 +594,12 @@
         ]
     },
     {
-        "match_id": "7946416100",
-        "winner": "team_2",
+        "match_id": [
+            "7946416100"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Qiyana",
@@ -504,8 +616,12 @@
         ]
     },
     {
-        "match_id": "7946374362",
-        "winner": "team_1",
+        "match_id": [
+            "7946374362"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Yasuo",
             "Aatrox",
@@ -522,8 +638,12 @@
         ]
     },
     {
-        "match_id": "7946289575",
-        "winner": "team_1",
+        "match_id": [
+            "7946289575"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Aatrox",
@@ -540,8 +660,12 @@
         ]
     },
     {
-        "match_id": "7944318862",
-        "winner": "team_2",
+        "match_id": [
+            "7944318862"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Nidalee",
@@ -558,8 +682,12 @@
         ]
     },
     {
-        "match_id": "7944268190",
-        "winner": "team_1",
+        "match_id": [
+            "7944268190"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Talon",
@@ -576,8 +704,12 @@
         ]
     },
     {
-        "match_id": "7944229137",
-        "winner": "team_1",
+        "match_id": [
+            "7944229137"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Lee Sin",
@@ -594,8 +726,12 @@
         ]
     },
     {
-        "match_id": "7944450082",
-        "winner": "team_1",
+        "match_id": [
+            "7944450082"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Singed",
             "Aatrox",
@@ -612,8 +748,12 @@
         ]
     },
     {
-        "match_id": "7944395257",
-        "winner": "team_2",
+        "match_id": [
+            "7944395257"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -630,8 +770,12 @@
         ]
     },
     {
-        "match_id": "7943578948",
-        "winner": "team_1",
+        "match_id": [
+            "7943578948"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Zaahen",
@@ -648,8 +792,12 @@
         ]
     },
     {
-        "match_id": "7943521572",
-        "winner": "team_1",
+        "match_id": [
+            "7943521572"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Akali",
             "Sylas",
@@ -666,8 +814,12 @@
         ]
     },
     {
-        "match_id": "7943467830",
-        "winner": "team_2",
+        "match_id": [
+            "7943467830"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -684,8 +836,12 @@
         ]
     },
     {
-        "match_id": "7950049207",
-        "winner": "team_1",
+        "match_id": [
+            "7950049207"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -702,8 +858,12 @@
         ]
     },
     {
-        "match_id": "7943401784",
-        "winner": "team_2",
+        "match_id": [
+            "7943401784"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sett",
             "Ambessa",
@@ -720,8 +880,12 @@
         ]
     },
     {
-        "match_id": "7949987092",
-        "winner": "team_1",
+        "match_id": [
+            "7949987092"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "LeBlanc",
             "Pantheon",
@@ -738,8 +902,12 @@
         ]
     },
     {
-        "match_id": "7943359108",
-        "winner": "team_2",
+        "match_id": [
+            "7943359108"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Sylas",
@@ -756,8 +924,12 @@
         ]
     },
     {
-        "match_id": "7949905239",
-        "winner": "team_2",
+        "match_id": [
+            "7949905239"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Karthus",
@@ -774,8 +946,12 @@
         ]
     },
     {
-        "match_id": "7943238695",
-        "winner": "team_2",
+        "match_id": [
+            "7943238695"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Ambessa",
@@ -792,8 +968,12 @@
         ]
     },
     {
-        "match_id": "7949668672",
-        "winner": "team_1",
+        "match_id": [
+            "7949668672"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Talon",
@@ -810,8 +990,12 @@
         ]
     },
     {
-        "match_id": "7941236157",
-        "winner": "team_1",
+        "match_id": [
+            "7941236157"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Singed",
             "Ambessa",
@@ -828,8 +1012,12 @@
         ]
     },
     {
-        "match_id": "7949313497",
-        "winner": "team_1",
+        "match_id": [
+            "7949313497"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Zyra",
@@ -846,8 +1034,12 @@
         ]
     },
     {
-        "match_id": "7949155747",
-        "winner": "team_2",
+        "match_id": [
+            "7949155747"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Zaahen",
@@ -864,8 +1056,12 @@
         ]
     },
     {
-        "match_id": "7948624856",
-        "winner": "team_2",
+        "match_id": [
+            "7948624856"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Elise",
@@ -882,8 +1078,12 @@
         ]
     },
     {
-        "match_id": "7947707306",
-        "winner": "team_2",
+        "match_id": [
+            "7947707306"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Ambessa",
@@ -900,8 +1100,12 @@
         ]
     },
     {
-        "match_id": "7947659992",
-        "winner": "team_2",
+        "match_id": [
+            "7947659992"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -918,8 +1122,12 @@
         ]
     },
     {
-        "match_id": "7946345022",
-        "winner": "team_1",
+        "match_id": [
+            "7946345022"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Aatrox",
@@ -936,8 +1144,12 @@
         ]
     },
     {
-        "match_id": "7945668710",
-        "winner": "team_2",
+        "match_id": [
+            "7945668710"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gwen",
             "Ambessa",
@@ -954,8 +1166,12 @@
         ]
     },
     {
-        "match_id": "7945659371",
-        "winner": "team_2",
+        "match_id": [
+            "7945659371"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Shaco",
@@ -972,8 +1188,12 @@
         ]
     },
     {
-        "match_id": "7945645200",
-        "winner": "team_2",
+        "match_id": [
+            "7945645200"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -990,8 +1210,12 @@
         ]
     },
     {
-        "match_id": "7945630084",
-        "winner": "team_2",
+        "match_id": [
+            "7945630084"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Fiddlesticks",
@@ -1008,8 +1232,12 @@
         ]
     },
     {
-        "match_id": "7950072576",
-        "winner": "team_2",
+        "match_id": [
+            "7950072576"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Tahm Kench",
             "Qiyana",
@@ -1026,8 +1254,12 @@
         ]
     },
     {
-        "match_id": "7945590795",
-        "winner": "team_1",
+        "match_id": [
+            "7945590795"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -1044,8 +1276,12 @@
         ]
     },
     {
-        "match_id": "7949956489",
-        "winner": "team_2",
+        "match_id": [
+            "7949956489"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Viego",
@@ -1062,8 +1298,12 @@
         ]
     },
     {
-        "match_id": "7945555582",
-        "winner": "team_1",
+        "match_id": [
+            "7945555582"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -1080,8 +1320,12 @@
         ]
     },
     {
-        "match_id": "7949843469",
-        "winner": "team_1",
+        "match_id": [
+            "7949843469"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -1098,8 +1342,12 @@
         ]
     },
     {
-        "match_id": "7945525063",
-        "winner": "team_1",
+        "match_id": [
+            "7945525063"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Wukong",
@@ -1116,8 +1364,12 @@
         ]
     },
     {
-        "match_id": "7949380032",
-        "winner": "team_1",
+        "match_id": [
+            "7949380032"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Bel'Veth",
@@ -1134,8 +1386,12 @@
         ]
     },
     {
-        "match_id": "7945473217",
-        "winner": "team_2",
+        "match_id": [
+            "7945473217"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Naafiri",
@@ -1152,8 +1408,12 @@
         ]
     },
     {
-        "match_id": "7949245353",
-        "winner": "team_1",
+        "match_id": [
+            "7949245353"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kennen",
             "Aatrox",
@@ -1170,8 +1430,12 @@
         ]
     },
     {
-        "match_id": "7949145186",
-        "winner": "team_1",
+        "match_id": [
+            "7949145186"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Orianna",
             "Ambessa",
@@ -1188,8 +1452,12 @@
         ]
     },
     {
-        "match_id": "7949074084",
-        "winner": "team_1",
+        "match_id": [
+            "7949074084"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gragas",
             "Talon",
@@ -1206,8 +1474,12 @@
         ]
     },
     {
-        "match_id": "7948973432",
-        "winner": "team_1",
+        "match_id": [
+            "7948973432"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -1224,8 +1496,12 @@
         ]
     },
     {
-        "match_id": "7947627438",
-        "winner": "team_2",
+        "match_id": [
+            "7947627438"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -1242,8 +1518,12 @@
         ]
     },
     {
-        "match_id": "7947552083",
-        "winner": "team_2",
+        "match_id": [
+            "7947552083"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Ambessa",
@@ -1260,8 +1540,12 @@
         ]
     },
     {
-        "match_id": "7950162764",
-        "winner": "team_2",
+        "match_id": [
+            "7950162764"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Warwick",
             "Aatrox",
@@ -1278,8 +1562,12 @@
         ]
     },
     {
-        "match_id": "7950093683",
-        "winner": "team_2",
+        "match_id": [
+            "7950093683"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Qiyana",
@@ -1296,8 +1584,12 @@
         ]
     },
     {
-        "match_id": "7947784471",
-        "winner": "team_1",
+        "match_id": [
+            "7947784471"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Aatrox",
@@ -1314,8 +1606,12 @@
         ]
     },
     {
-        "match_id": "7947687549",
-        "winner": "team_1",
+        "match_id": [
+            "7947687549"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ezreal",
             "Qiyana",
@@ -1332,8 +1628,12 @@
         ]
     },
     {
-        "match_id": "7947610353",
-        "winner": "team_2",
+        "match_id": [
+            "7947610353"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Qiyana",
@@ -1350,8 +1650,12 @@
         ]
     },
     {
-        "match_id": "7949931532",
-        "winner": "team_2",
+        "match_id": [
+            "7949931532"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -1368,8 +1672,12 @@
         ]
     },
     {
-        "match_id": "7947513361",
-        "winner": "team_2",
+        "match_id": [
+            "7947513361"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Aatrox",
@@ -1386,8 +1694,12 @@
         ]
     },
     {
-        "match_id": "7949610810",
-        "winner": "team_2",
+        "match_id": [
+            "7949610810"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Karthus",
@@ -1404,8 +1716,12 @@
         ]
     },
     {
-        "match_id": "7947387816",
-        "winner": "team_1",
+        "match_id": [
+            "7947387816"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -1422,8 +1738,12 @@
         ]
     },
     {
-        "match_id": "7948489038",
-        "winner": "team_1",
+        "match_id": [
+            "7948489038"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Vi",
@@ -1440,8 +1760,12 @@
         ]
     },
     {
-        "match_id": "7946182042",
-        "winner": "team_1",
+        "match_id": [
+            "7946182042"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Dr. Mundo",
             "Viego",
@@ -1458,8 +1782,12 @@
         ]
     },
     {
-        "match_id": "7944364829",
-        "winner": "team_2",
+        "match_id": [
+            "7944364829"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Jarvan IV",
@@ -1476,8 +1804,12 @@
         ]
     },
     {
-        "match_id": "7945613551",
-        "winner": "team_1",
+        "match_id": [
+            "7945613551"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Ambessa",
@@ -1494,8 +1826,12 @@
         ]
     },
     {
-        "match_id": "7944298331",
-        "winner": "team_1",
+        "match_id": [
+            "7944298331"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -1512,8 +1848,12 @@
         ]
     },
     {
-        "match_id": "7945577350",
-        "winner": "team_2",
+        "match_id": [
+            "7945577350"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Camille",
             "Aatrox",
@@ -1530,8 +1870,12 @@
         ]
     },
     {
-        "match_id": "7944206512",
-        "winner": "team_2",
+        "match_id": [
+            "7944206512"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Aatrox",
@@ -1548,8 +1892,12 @@
         ]
     },
     {
-        "match_id": "7943162309",
-        "winner": "team_1",
+        "match_id": [
+            "7943162309"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Zyra",
@@ -1566,8 +1914,12 @@
         ]
     },
     {
-        "match_id": "7942832627",
-        "winner": "team_1",
+        "match_id": [
+            "7942832627"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Lee Sin",
@@ -1584,8 +1936,12 @@
         ]
     },
     {
-        "match_id": "7940061039",
-        "winner": "team_1",
+        "match_id": [
+            "7940061039"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Talon",
@@ -1602,8 +1958,12 @@
         ]
     },
     {
-        "match_id": "7948561510",
-        "winner": "team_1",
+        "match_id": [
+            "7948561510"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Lee Sin",
@@ -1620,8 +1980,12 @@
         ]
     },
     {
-        "match_id": "7948820488",
-        "winner": "team_1",
+        "match_id": [
+            "7948820488"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Elise",
@@ -1638,8 +2002,12 @@
         ]
     },
     {
-        "match_id": "7948276767",
-        "winner": "team_1",
+        "match_id": [
+            "7948276767"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Ekko",
@@ -1656,8 +2024,12 @@
         ]
     },
     {
-        "match_id": "7947789466",
-        "winner": "team_1",
+        "match_id": [
+            "7947789466"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -1674,8 +2046,12 @@
         ]
     },
     {
-        "match_id": "7946708429",
-        "winner": "team_1",
+        "match_id": [
+            "7946708429"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Irelia",
             "Fiddlesticks",
@@ -1692,8 +2068,12 @@
         ]
     },
     {
-        "match_id": "7947753571",
-        "winner": "team_1",
+        "match_id": [
+            "7947753571"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Aatrox",
@@ -1710,8 +2090,12 @@
         ]
     },
     {
-        "match_id": "7944997296",
-        "winner": "team_1",
+        "match_id": [
+            "7944997296"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Ambessa",
@@ -1728,8 +2112,12 @@
         ]
     },
     {
-        "match_id": "7947695662",
-        "winner": "team_2",
+        "match_id": [
+            "7947695662"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Aatrox",
@@ -1746,8 +2134,12 @@
         ]
     },
     {
-        "match_id": "7944212974",
-        "winner": "team_1",
+        "match_id": [
+            "7944212974"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kennen",
             "Vi",
@@ -1764,8 +2156,12 @@
         ]
     },
     {
-        "match_id": "7947619479",
-        "winner": "team_1",
+        "match_id": [
+            "7947619479"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Swain",
             "Lee Sin",
@@ -1782,8 +2178,12 @@
         ]
     },
     {
-        "match_id": "7943870164",
-        "winner": "team_1",
+        "match_id": [
+            "7943870164"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Aatrox",
@@ -1800,8 +2200,12 @@
         ]
     },
     {
-        "match_id": "7947479349",
-        "winner": "team_2",
+        "match_id": [
+            "7947479349"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gnar",
             "Ambessa",
@@ -1818,8 +2222,12 @@
         ]
     },
     {
-        "match_id": "7942253282",
-        "winner": "team_1",
+        "match_id": [
+            "7942253282"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gwen",
             "Aatrox",
@@ -1836,8 +2244,12 @@
         ]
     },
     {
-        "match_id": "7947408021",
-        "winner": "team_1",
+        "match_id": [
+            "7947408021"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Jayce",
@@ -1854,8 +2266,12 @@
         ]
     },
     {
-        "match_id": "7939940818",
-        "winner": "team_1",
+        "match_id": [
+            "7939940818"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Irelia",
             "Qiyana",
@@ -1872,8 +2288,12 @@
         ]
     },
     {
-        "match_id": "7945611306",
-        "winner": "team_2",
+        "match_id": [
+            "7945611306"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -1890,8 +2310,12 @@
         ]
     },
     {
-        "match_id": "7936135794",
-        "winner": "team_2",
+        "match_id": [
+            "7936135794"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Elise",
@@ -1908,8 +2332,12 @@
         ]
     },
     {
-        "match_id": "7950055534",
-        "winner": "team_1",
+        "match_id": [
+            "7950055534"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Vladimir",
             "Pantheon",
@@ -1926,8 +2354,12 @@
         ]
     },
     {
-        "match_id": "7949951654",
-        "winner": "team_1",
+        "match_id": [
+            "7949951654"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -1944,8 +2376,12 @@
         ]
     },
     {
-        "match_id": "7949993192",
-        "winner": "team_2",
+        "match_id": [
+            "7949993192"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Graves",
@@ -1962,8 +2398,12 @@
         ]
     },
     {
-        "match_id": "7949882187",
-        "winner": "team_1",
+        "match_id": [
+            "7949882187"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -1980,8 +2420,12 @@
         ]
     },
     {
-        "match_id": "7949826210",
-        "winner": "team_2",
+        "match_id": [
+            "7949826210"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gwen",
             "Jayce",
@@ -1998,8 +2442,12 @@
         ]
     },
     {
-        "match_id": "7949783780",
-        "winner": "team_2",
+        "match_id": [
+            "7949783780"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Taliyah",
@@ -2016,8 +2464,12 @@
         ]
     },
     {
-        "match_id": "7949732173",
-        "winner": "team_1",
+        "match_id": [
+            "7949732173"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Camille",
             "Fiddlesticks",
@@ -2034,8 +2486,12 @@
         ]
     },
     {
-        "match_id": "7949698470",
-        "winner": "team_1",
+        "match_id": [
+            "7949698470"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Lee Sin",
@@ -2052,8 +2508,12 @@
         ]
     },
     {
-        "match_id": "7949405575",
-        "winner": "team_2",
+        "match_id": [
+            "7949405575"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Aatrox",
@@ -2070,8 +2530,12 @@
         ]
     },
     {
-        "match_id": "7949581872",
-        "winner": "team_1",
+        "match_id": [
+            "7949581872"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Ambessa",
@@ -2088,8 +2552,12 @@
         ]
     },
     {
-        "match_id": "7949211347",
-        "winner": "team_2",
+        "match_id": [
+            "7949211347"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rek'Sai",
             "Jayce",
@@ -2106,8 +2574,12 @@
         ]
     },
     {
-        "match_id": "7949418818",
-        "winner": "team_1",
+        "match_id": [
+            "7949418818"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Zyra",
@@ -2124,8 +2596,12 @@
         ]
     },
     {
-        "match_id": "7949083250",
-        "winner": "team_1",
+        "match_id": [
+            "7949083250"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -2142,8 +2618,12 @@
         ]
     },
     {
-        "match_id": "7949338739",
-        "winner": "team_1",
+        "match_id": [
+            "7949338739"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gangplank",
             "Nidalee",
@@ -2160,8 +2640,12 @@
         ]
     },
     {
-        "match_id": "7948921030",
-        "winner": "team_1",
+        "match_id": [
+            "7948921030"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Karthus",
@@ -2178,8 +2662,12 @@
         ]
     },
     {
-        "match_id": "7948343933",
-        "winner": "team_2",
+        "match_id": [
+            "7948343933"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Nidalee",
@@ -2196,8 +2684,12 @@
         ]
     },
     {
-        "match_id": "7948825522",
-        "winner": "team_1",
+        "match_id": [
+            "7948825522"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Naafiri",
@@ -2214,8 +2706,12 @@
         ]
     },
     {
-        "match_id": "7949778170",
-        "winner": "team_2",
+        "match_id": [
+            "7949778170"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Bel'Veth",
@@ -2232,8 +2728,12 @@
         ]
     },
     {
-        "match_id": "7949662031",
-        "winner": "team_2",
+        "match_id": [
+            "7949662031"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Yone",
             "Aatrox",
@@ -2250,8 +2750,12 @@
         ]
     },
     {
-        "match_id": "7949523193",
-        "winner": "team_1",
+        "match_id": [
+            "7949523193"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rek'Sai",
             "Aatrox",
@@ -2268,8 +2772,12 @@
         ]
     },
     {
-        "match_id": "7949545001",
-        "winner": "team_1",
+        "match_id": [
+            "7949545001"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Graves",
@@ -2286,8 +2794,12 @@
         ]
     },
     {
-        "match_id": "7949429377",
-        "winner": "team_1",
+        "match_id": [
+            "7949429377"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Trundle",
@@ -2304,8 +2816,12 @@
         ]
     },
     {
-        "match_id": "7949262950",
-        "winner": "team_2",
+        "match_id": [
+            "7949262950"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Ekko",
@@ -2322,8 +2838,12 @@
         ]
     },
     {
-        "match_id": "7947585392",
-        "winner": "team_1",
+        "match_id": [
+            "7947585392"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -2340,8 +2860,12 @@
         ]
     },
     {
-        "match_id": "7949180800",
-        "winner": "team_2",
+        "match_id": [
+            "7949180800"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rek'Sai",
             "Aatrox",
@@ -2358,8 +2882,12 @@
         ]
     },
     {
-        "match_id": "7947440066",
-        "winner": "team_1",
+        "match_id": [
+            "7947440066"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Riven",
             "Ambessa",
@@ -2376,8 +2904,12 @@
         ]
     },
     {
-        "match_id": "7949079369",
-        "winner": "team_2",
+        "match_id": [
+            "7949079369"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Graves",
@@ -2394,8 +2926,12 @@
         ]
     },
     {
-        "match_id": "7946217138",
-        "winner": "team_1",
+        "match_id": [
+            "7946217138"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Lee Sin",
@@ -2412,8 +2948,12 @@
         ]
     },
     {
-        "match_id": "7948984238",
-        "winner": "team_1",
+        "match_id": [
+            "7948984238"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Viego",
@@ -2430,8 +2970,12 @@
         ]
     },
     {
-        "match_id": "7938645116",
-        "winner": "team_2",
+        "match_id": [
+            "7938645116"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Nidalee",
@@ -2448,8 +2992,12 @@
         ]
     },
     {
-        "match_id": "7947213389",
-        "winner": "team_1",
+        "match_id": [
+            "7947213389"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -2466,8 +3014,12 @@
         ]
     },
     {
-        "match_id": "7938573299",
-        "winner": "team_2",
+        "match_id": [
+            "7938573299"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Nidalee",
@@ -2484,8 +3036,12 @@
         ]
     },
     {
-        "match_id": "7947121048",
-        "winner": "team_1",
+        "match_id": [
+            "7947121048"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Viego",
@@ -2502,8 +3058,12 @@
         ]
     },
     {
-        "match_id": "7938510900",
-        "winner": "team_1",
+        "match_id": [
+            "7938510900"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -2520,8 +3080,12 @@
         ]
     },
     {
-        "match_id": "7938464460",
-        "winner": "team_2",
+        "match_id": [
+            "7938464460"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -2538,8 +3102,12 @@
         ]
     },
     {
-        "match_id": "7938081065",
-        "winner": "team_2",
+        "match_id": [
+            "7938081065"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -2556,8 +3124,12 @@
         ]
     },
     {
-        "match_id": "7938020813",
-        "winner": "team_1",
+        "match_id": [
+            "7938020813"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Qiyana",
@@ -2574,8 +3146,12 @@
         ]
     },
     {
-        "match_id": "7937961892",
-        "winner": "team_2",
+        "match_id": [
+            "7937961892"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Naafiri",
@@ -2592,8 +3168,12 @@
         ]
     },
     {
-        "match_id": "7937475952",
-        "winner": "team_1",
+        "match_id": [
+            "7937475952"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Aatrox",
@@ -2610,8 +3190,12 @@
         ]
     },
     {
-        "match_id": "7937469227",
-        "winner": "team_2",
+        "match_id": [
+            "7937469227"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gwen",
             "Elise",
@@ -2628,8 +3212,12 @@
         ]
     },
     {
-        "match_id": "7950117032",
-        "winner": "team_1",
+        "match_id": [
+            "7950117032"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Evelynn",
@@ -2646,8 +3234,12 @@
         ]
     },
     {
-        "match_id": "7950003272",
-        "winner": "team_1",
+        "match_id": [
+            "7950003272"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kennen",
             "Aatrox",
@@ -2664,8 +3256,12 @@
         ]
     },
     {
-        "match_id": "7949811614",
-        "winner": "team_2",
+        "match_id": [
+            "7949811614"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -2682,8 +3278,12 @@
         ]
     },
     {
-        "match_id": "7949598576",
-        "winner": "team_2",
+        "match_id": [
+            "7949598576"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Orianna",
             "Qiyana",
@@ -2700,8 +3300,12 @@
         ]
     },
     {
-        "match_id": "7949493389",
-        "winner": "team_2",
+        "match_id": [
+            "7949493389"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Yasuo",
             "Elise",
@@ -2718,8 +3322,12 @@
         ]
     },
     {
-        "match_id": "7949299120",
-        "winner": "team_1",
+        "match_id": [
+            "7949299120"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -2736,8 +3344,12 @@
         ]
     },
     {
-        "match_id": "7949204833",
-        "winner": "team_1",
+        "match_id": [
+            "7949204833"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Elise",
             "Jayce",
@@ -2754,8 +3366,12 @@
         ]
     },
     {
-        "match_id": "7947467630",
-        "winner": "team_2",
+        "match_id": [
+            "7947467630"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -2772,8 +3388,12 @@
         ]
     },
     {
-        "match_id": "7947342563",
-        "winner": "team_2",
+        "match_id": [
+            "7947342563"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Jayce",
@@ -2790,8 +3410,12 @@
         ]
     },
     {
-        "match_id": "7947233343",
-        "winner": "team_1",
+        "match_id": [
+            "7947233343"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Yone",
             "Qiyana",
@@ -2808,8 +3432,12 @@
         ]
     },
     {
-        "match_id": "7948516040",
-        "winner": "team_1",
+        "match_id": [
+            "7948516040"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Karthus",
@@ -2826,8 +3454,12 @@
         ]
     },
     {
-        "match_id": "7947172619",
-        "winner": "team_2",
+        "match_id": [
+            "7947172619"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sylas",
             "Aatrox",
@@ -2844,8 +3476,12 @@
         ]
     },
     {
-        "match_id": "7947664436",
-        "winner": "team_1",
+        "match_id": [
+            "7947664436"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -2862,8 +3498,12 @@
         ]
     },
     {
-        "match_id": "7946390611",
-        "winner": "team_2",
+        "match_id": [
+            "7946390611"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -2880,8 +3520,12 @@
         ]
     },
     {
-        "match_id": "7947561916",
-        "winner": "team_1",
+        "match_id": [
+            "7947561916"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Ambessa",
@@ -2898,8 +3542,12 @@
         ]
     },
     {
-        "match_id": "7938101745",
-        "winner": "team_1",
+        "match_id": [
+            "7938101745"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Graves",
@@ -2916,8 +3564,12 @@
         ]
     },
     {
-        "match_id": "7941457234",
-        "winner": "team_1",
+        "match_id": [
+            "7941457234"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Ambessa",
@@ -2934,8 +3586,12 @@
         ]
     },
     {
-        "match_id": "7938050232",
-        "winner": "team_1",
+        "match_id": [
+            "7938050232"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Lee Sin",
@@ -2952,8 +3608,12 @@
         ]
     },
     {
-        "match_id": "7941379542",
-        "winner": "team_1",
+        "match_id": [
+            "7941379542"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Nidalee",
@@ -2970,8 +3630,12 @@
         ]
     },
     {
-        "match_id": "7937974330",
-        "winner": "team_2",
+        "match_id": [
+            "7937974330"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jax",
             "Hecarim",
@@ -2988,8 +3652,12 @@
         ]
     },
     {
-        "match_id": "7941293537",
-        "winner": "team_1",
+        "match_id": [
+            "7941293537"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Shen",
             "Jarvan IV",
@@ -3006,8 +3674,12 @@
         ]
     },
     {
-        "match_id": "7937922645",
-        "winner": "team_1",
+        "match_id": [
+            "7937922645"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Lee Sin",
@@ -3024,8 +3696,12 @@
         ]
     },
     {
-        "match_id": "7941241299",
-        "winner": "team_1",
+        "match_id": [
+            "7941241299"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Sylas",
@@ -3042,8 +3718,12 @@
         ]
     },
     {
-        "match_id": "7936188293",
-        "winner": "team_1",
+        "match_id": [
+            "7936188293"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Sylas",
@@ -3060,8 +3740,12 @@
         ]
     },
     {
-        "match_id": "7941169188",
-        "winner": "team_1",
+        "match_id": [
+            "7941169188"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Qiyana",
@@ -3078,8 +3762,12 @@
         ]
     },
     {
-        "match_id": "7934717925",
-        "winner": "team_2",
+        "match_id": [
+            "7934717925"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Neeko",
             "Sylas",
@@ -3096,8 +3784,12 @@
         ]
     },
     {
-        "match_id": "7938618735",
-        "winner": "team_2",
+        "match_id": [
+            "7938618735"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Lee Sin",
@@ -3114,8 +3806,12 @@
         ]
     },
     {
-        "match_id": "7934666881",
-        "winner": "team_2",
+        "match_id": [
+            "7934666881"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -3132,8 +3828,12 @@
         ]
     },
     {
-        "match_id": "7938550313",
-        "winner": "team_2",
+        "match_id": [
+            "7938550313"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Zyra",
@@ -3150,8 +3850,12 @@
         ]
     },
     {
-        "match_id": "7934612519",
-        "winner": "team_1",
+        "match_id": [
+            "7934612519"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gragas",
             "Sion",
@@ -3168,8 +3872,12 @@
         ]
     },
     {
-        "match_id": "7938368242",
-        "winner": "team_2",
+        "match_id": [
+            "7938368242"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Poppy",
             "Ambessa",
@@ -3186,8 +3894,12 @@
         ]
     },
     {
-        "match_id": "7932409650",
-        "winner": "team_1",
+        "match_id": [
+            "7932409650"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Ivern",
@@ -3204,8 +3916,12 @@
         ]
     },
     {
-        "match_id": "7938299214",
-        "winner": "team_2",
+        "match_id": [
+            "7938299214"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Skarner",
@@ -3222,8 +3938,12 @@
         ]
     },
     {
-        "match_id": "7932329932",
-        "winner": "team_1",
+        "match_id": [
+            "7932329932"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -3240,8 +3960,12 @@
         ]
     },
     {
-        "match_id": "7942958684",
-        "winner": "team_1",
+        "match_id": [
+            "7942958684"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Lee Sin",
@@ -3258,8 +3982,12 @@
         ]
     },
     {
-        "match_id": "7942906288",
-        "winner": "team_2",
+        "match_id": [
+            "7942906288"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Illaoi",
             "Nidalee",
@@ -3276,8 +4004,12 @@
         ]
     },
     {
-        "match_id": "7942765312",
-        "winner": "team_1",
+        "match_id": [
+            "7942765312"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Ambessa",
@@ -3294,8 +4026,12 @@
         ]
     },
     {
-        "match_id": "7942720244",
-        "winner": "team_2",
+        "match_id": [
+            "7942720244"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Darius",
             "Rengar",
@@ -3312,8 +4048,12 @@
         ]
     },
     {
-        "match_id": "7942645555",
-        "winner": "team_2",
+        "match_id": [
+            "7942645555"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Zaahen",
@@ -3330,8 +4070,12 @@
         ]
     },
     {
-        "match_id": "7950034104",
-        "winner": "team_2",
+        "match_id": [
+            "7950034104"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -3348,8 +4092,12 @@
         ]
     },
     {
-        "match_id": "7925735824",
-        "winner": "team_1",
+        "match_id": [
+            "7925735824"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Wukong",
             "Qiyana",
@@ -3366,8 +4114,12 @@
         ]
     },
     {
-        "match_id": "7949645455",
-        "winner": "team_1",
+        "match_id": [
+            "7949645455"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Xin Zhao",
@@ -3384,8 +4136,12 @@
         ]
     },
     {
-        "match_id": "7925624867",
-        "winner": "team_2",
+        "match_id": [
+            "7925624867"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Qiyana",
@@ -3402,8 +4158,12 @@
         ]
     },
     {
-        "match_id": "7947796519",
-        "winner": "team_1",
+        "match_id": [
+            "7947796519"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Camille",
             "Bel'Veth",
@@ -3420,8 +4180,12 @@
         ]
     },
     {
-        "match_id": "7925513658",
-        "winner": "team_2",
+        "match_id": [
+            "7925513658"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Jarvan IV",
@@ -3438,8 +4202,12 @@
         ]
     },
     {
-        "match_id": "7947772225",
-        "winner": "team_1",
+        "match_id": [
+            "7947772225"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Fiddlesticks",
@@ -3456,8 +4224,12 @@
         ]
     },
     {
-        "match_id": "7947723682",
-        "winner": "team_2",
+        "match_id": [
+            "7947723682"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -3474,8 +4246,12 @@
         ]
     },
     {
-        "match_id": "7945981721",
-        "winner": "team_1",
+        "match_id": [
+            "7945981721"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Elise",
@@ -3492,8 +4268,12 @@
         ]
     },
     {
-        "match_id": "7947237734",
-        "winner": "team_2",
+        "match_id": [
+            "7947237734"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sejuani",
             "Bel'Veth",
@@ -3510,8 +4290,12 @@
         ]
     },
     {
-        "match_id": "7946828814",
-        "winner": "team_2",
+        "match_id": [
+            "7946828814"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Malphite",
@@ -3528,8 +4312,12 @@
         ]
     },
     {
-        "match_id": "7946574031",
-        "winner": "team_1",
+        "match_id": [
+            "7946574031"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rek'Sai",
             "Ambessa",
@@ -3546,8 +4334,12 @@
         ]
     },
     {
-        "match_id": "7946233691",
-        "winner": "team_1",
+        "match_id": [
+            "7946233691"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sejuani",
             "Elise",
@@ -3564,8 +4356,12 @@
         ]
     },
     {
-        "match_id": "7946180280",
-        "winner": "team_2",
+        "match_id": [
+            "7946180280"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -3582,8 +4378,12 @@
         ]
     },
     {
-        "match_id": "7950138913",
-        "winner": "team_1",
+        "match_id": [
+            "7950138913"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -3600,8 +4400,12 @@
         ]
     },
     {
-        "match_id": "7946120680",
-        "winner": "team_2",
+        "match_id": [
+            "7946120680"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Malphite",
             "Elise",
@@ -3618,8 +4422,12 @@
         ]
     },
     {
-        "match_id": "7950003812",
-        "winner": "team_2",
+        "match_id": [
+            "7950003812"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Karthus",
@@ -3636,8 +4444,12 @@
         ]
     },
     {
-        "match_id": "7946086694",
-        "winner": "team_2",
+        "match_id": [
+            "7946086694"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Karthus",
@@ -3654,8 +4466,12 @@
         ]
     },
     {
-        "match_id": "7949526018",
-        "winner": "team_1",
+        "match_id": [
+            "7949526018"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Lee Sin",
@@ -3672,8 +4488,12 @@
         ]
     },
     {
-        "match_id": "7946055575",
-        "winner": "team_1",
+        "match_id": [
+            "7946055575"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Yasuo",
             "Malphite",
@@ -3690,8 +4510,12 @@
         ]
     },
     {
-        "match_id": "7949390468",
-        "winner": "team_2",
+        "match_id": [
+            "7949390468"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Illaoi",
             "Qiyana",
@@ -3708,8 +4532,12 @@
         ]
     },
     {
-        "match_id": "7949056439",
-        "winner": "team_1",
+        "match_id": [
+            "7949056439"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sett",
             "Lee Sin",
@@ -3726,8 +4554,12 @@
         ]
     },
     {
-        "match_id": "7949840983",
-        "winner": "team_1",
+        "match_id": [
+            "7949840983"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Pantheon",
@@ -3744,8 +4576,12 @@
         ]
     },
     {
-        "match_id": "7949104707",
-        "winner": "team_2",
+        "match_id": [
+            "7949104707"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gnar",
             "Qiyana",
@@ -3762,8 +4598,12 @@
         ]
     },
     {
-        "match_id": "7949030274",
-        "winner": "team_2",
+        "match_id": [
+            "7949030274"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jax",
             "Ambessa",
@@ -3780,8 +4620,12 @@
         ]
     },
     {
-        "match_id": "7947618982",
-        "winner": "team_1",
+        "match_id": [
+            "7947618982"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Sylas",
@@ -3798,8 +4642,12 @@
         ]
     },
     {
-        "match_id": "7947536129",
-        "winner": "team_2",
+        "match_id": [
+            "7947536129"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -3816,8 +4664,12 @@
         ]
     },
     {
-        "match_id": "7932447005",
-        "winner": "team_2",
+        "match_id": [
+            "7932447005"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Ambessa",
@@ -3834,8 +4686,12 @@
         ]
     },
     {
-        "match_id": "7948305186",
-        "winner": "team_1",
+        "match_id": [
+            "7948305186"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Nidalee",
@@ -3852,8 +4708,12 @@
         ]
     },
     {
-        "match_id": "7932392287",
-        "winner": "team_2",
+        "match_id": [
+            "7932392287"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Kai'Sa",
             "Jayce",
@@ -3870,8 +4730,12 @@
         ]
     },
     {
-        "match_id": "7947037956",
-        "winner": "team_1",
+        "match_id": [
+            "7947037956"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Nidalee",
@@ -3888,8 +4752,12 @@
         ]
     },
     {
-        "match_id": "7932341764",
-        "winner": "team_1",
+        "match_id": [
+            "7932341764"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Rengar",
@@ -3906,8 +4774,12 @@
         ]
     },
     {
-        "match_id": "7943187412",
-        "winner": "team_1",
+        "match_id": [
+            "7943187412"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Zed",
@@ -3924,8 +4796,12 @@
         ]
     },
     {
-        "match_id": "7929076475",
-        "winner": "team_2",
+        "match_id": [
+            "7929076475"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Singed",
             "Xin Zhao",
@@ -3942,8 +4818,12 @@
         ]
     },
     {
-        "match_id": "7943108605",
-        "winner": "team_2",
+        "match_id": [
+            "7943108605"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Viego",
@@ -3960,8 +4840,12 @@
         ]
     },
     {
-        "match_id": "7928995758",
-        "winner": "team_1",
+        "match_id": [
+            "7928995758"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Qiyana",
@@ -3978,8 +4862,12 @@
         ]
     },
     {
-        "match_id": "7939132020",
-        "winner": "team_1",
+        "match_id": [
+            "7939132020"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kayle",
             "Qiyana",
@@ -3996,8 +4884,12 @@
         ]
     },
     {
-        "match_id": "7936626551",
-        "winner": "team_1",
+        "match_id": [
+            "7936626551"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -4014,8 +4906,12 @@
         ]
     },
     {
-        "match_id": "7932584118",
-        "winner": "team_1",
+        "match_id": [
+            "7932584118"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Qiyana",
@@ -4032,8 +4928,12 @@
         ]
     },
     {
-        "match_id": "7932530704",
-        "winner": "team_2",
+        "match_id": [
+            "7932530704"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Bel'Veth",
@@ -4050,8 +4950,12 @@
         ]
     },
     {
-        "match_id": "7931765158",
-        "winner": "team_1",
+        "match_id": [
+            "7931765158"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Graves",
@@ -4068,8 +4972,12 @@
         ]
     },
     {
-        "match_id": "7940137510",
-        "winner": "team_1",
+        "match_id": [
+            "7940137510"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Veigar",
             "Aatrox",
@@ -4086,8 +4994,12 @@
         ]
     },
     {
-        "match_id": "7940073334",
-        "winner": "team_1",
+        "match_id": [
+            "7940073334"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -4104,8 +5016,12 @@
         ]
     },
     {
-        "match_id": "7940010998",
-        "winner": "team_2",
+        "match_id": [
+            "7940010998"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -4122,8 +5038,12 @@
         ]
     },
     {
-        "match_id": "7939961387",
-        "winner": "team_1",
+        "match_id": [
+            "7939961387"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Sylas",
@@ -4140,8 +5060,12 @@
         ]
     },
     {
-        "match_id": "7939898408",
-        "winner": "team_2",
+        "match_id": [
+            "7939898408"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Wukong",
@@ -4158,8 +5082,12 @@
         ]
     },
     {
-        "match_id": "7949257883",
-        "winner": "team_1",
+        "match_id": [
+            "7949257883"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Wukong",
@@ -4176,8 +5104,12 @@
         ]
     },
     {
-        "match_id": "7939163117",
-        "winner": "team_1",
+        "match_id": [
+            "7939163117"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Qiyana",
@@ -4194,8 +5126,12 @@
         ]
     },
     {
-        "match_id": "7949163303",
-        "winner": "team_2",
+        "match_id": [
+            "7949163303"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Dr. Mundo",
             "Aatrox",
@@ -4212,8 +5148,12 @@
         ]
     },
     {
-        "match_id": "7939080576",
-        "winner": "team_2",
+        "match_id": [
+            "7939080576"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Master Yi",
@@ -4230,8 +5170,12 @@
         ]
     },
     {
-        "match_id": "7949045688",
-        "winner": "team_2",
+        "match_id": [
+            "7949045688"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ryze",
             "Pantheon",
@@ -4248,8 +5192,12 @@
         ]
     },
     {
-        "match_id": "7939024082",
-        "winner": "team_2",
+        "match_id": [
+            "7939024082"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Yasuo",
             "Ekko",
@@ -4266,8 +5214,12 @@
         ]
     },
     {
-        "match_id": "7948961334",
-        "winner": "team_1",
+        "match_id": [
+            "7948961334"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Aatrox",
@@ -4284,8 +5236,12 @@
         ]
     },
     {
-        "match_id": "7938807728",
-        "winner": "team_1",
+        "match_id": [
+            "7938807728"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Wukong",
@@ -4302,8 +5258,12 @@
         ]
     },
     {
-        "match_id": "7948850412",
-        "winner": "team_1",
+        "match_id": [
+            "7948850412"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malzahar",
             "Kha'Zix",
@@ -4320,8 +5280,12 @@
         ]
     },
     {
-        "match_id": "7948762022",
-        "winner": "team_1",
+        "match_id": [
+            "7948762022"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Draven",
             "Malphite",
@@ -4338,8 +5302,12 @@
         ]
     },
     {
-        "match_id": "7948675654",
-        "winner": "team_2",
+        "match_id": [
+            "7948675654"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jax",
             "Lee Sin",
@@ -4356,8 +5324,12 @@
         ]
     },
     {
-        "match_id": "7948485428",
-        "winner": "team_1",
+        "match_id": [
+            "7948485428"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Jayce",
@@ -4374,8 +5346,12 @@
         ]
     },
     {
-        "match_id": "7948330325",
-        "winner": "team_2",
+        "match_id": [
+            "7948330325"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Varus",
             "Rek'Sai",
@@ -4392,8 +5368,12 @@
         ]
     },
     {
-        "match_id": "7948278311",
-        "winner": "team_1",
+        "match_id": [
+            "7948278311"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Rek'Sai",
@@ -4410,8 +5390,12 @@
         ]
     },
     {
-        "match_id": "7949751413",
-        "winner": "team_2",
+        "match_id": [
+            "7949751413"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -4428,8 +5412,12 @@
         ]
     },
     {
-        "match_id": "7945535501",
-        "winner": "team_1",
+        "match_id": [
+            "7945535501"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Zaahen",
@@ -4446,8 +5434,12 @@
         ]
     },
     {
-        "match_id": "7945490210",
-        "winner": "team_2",
+        "match_id": [
+            "7945490210"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Yasuo",
             "Ambessa",
@@ -4464,8 +5456,12 @@
         ]
     },
     {
-        "match_id": "7945439518",
-        "winner": "team_1",
+        "match_id": [
+            "7945439518"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -4482,8 +5478,12 @@
         ]
     },
     {
-        "match_id": "7945373921",
-        "winner": "team_1",
+        "match_id": [
+            "7945373921"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aatrox",
             "Nocturne",
@@ -4500,8 +5500,12 @@
         ]
     },
     {
-        "match_id": "7943450973",
-        "winner": "team_2",
+        "match_id": [
+            "7943450973"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Anivia",
             "Lee Sin",
@@ -4518,8 +5522,12 @@
         ]
     },
     {
-        "match_id": "7945318000",
-        "winner": "team_1",
+        "match_id": [
+            "7945318000"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Lee Sin",
@@ -4536,8 +5544,12 @@
         ]
     },
     {
-        "match_id": "7943381923",
-        "winner": "team_1",
+        "match_id": [
+            "7943381923"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Jayce",
@@ -4554,8 +5566,12 @@
         ]
     },
     {
-        "match_id": "7943286351",
-        "winner": "team_2",
+        "match_id": [
+            "7943286351"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Wukong",
@@ -4572,8 +5588,12 @@
         ]
     },
     {
-        "match_id": "7943052815",
-        "winner": "team_1",
+        "match_id": [
+            "7943052815"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Nidalee",
@@ -4590,8 +5610,12 @@
         ]
     },
     {
-        "match_id": "7942971052",
-        "winner": "team_1",
+        "match_id": [
+            "7942971052"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Viego",
@@ -4608,8 +5632,12 @@
         ]
     },
     {
-        "match_id": "7942859670",
-        "winner": "team_1",
+        "match_id": [
+            "7942859670"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Lee Sin",
@@ -4626,8 +5654,12 @@
         ]
     },
     {
-        "match_id": "7941889657",
-        "winner": "team_1",
+        "match_id": [
+            "7941889657"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Nidalee",
@@ -4644,8 +5676,12 @@
         ]
     },
     {
-        "match_id": "7941866752",
-        "winner": "team_2",
+        "match_id": [
+            "7941866752"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Jayce",
@@ -4662,8 +5698,12 @@
         ]
     },
     {
-        "match_id": "7941836154",
-        "winner": "team_2",
+        "match_id": [
+            "7941836154"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -4680,8 +5720,12 @@
         ]
     },
     {
-        "match_id": "7948955906",
-        "winner": "team_1",
+        "match_id": [
+            "7948955906"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Lee Sin",
@@ -4698,8 +5742,12 @@
         ]
     },
     {
-        "match_id": "7946121841",
-        "winner": "team_1",
+        "match_id": [
+            "7946121841"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gragas",
             "Qiyana",
@@ -4716,8 +5764,12 @@
         ]
     },
     {
-        "match_id": "7946081030",
-        "winner": "team_1",
+        "match_id": [
+            "7946081030"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Aatrox",
@@ -4734,8 +5786,12 @@
         ]
     },
     {
-        "match_id": "7945978933",
-        "winner": "team_1",
+        "match_id": [
+            "7945978933"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Karthus",
@@ -4752,8 +5808,12 @@
         ]
     },
     {
-        "match_id": "7945954006",
-        "winner": "team_1",
+        "match_id": [
+            "7945954006"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Lee Sin",
@@ -4770,8 +5830,12 @@
         ]
     },
     {
-        "match_id": "7940508694",
-        "winner": "team_1",
+        "match_id": [
+            "7940508694"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Jarvan IV",
@@ -4788,8 +5852,12 @@
         ]
     },
     {
-        "match_id": "7940473390",
-        "winner": "team_1",
+        "match_id": [
+            "7940473390"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Jarvan IV",
@@ -4806,8 +5874,12 @@
         ]
     },
     {
-        "match_id": "7940444205",
-        "winner": "team_1",
+        "match_id": [
+            "7940444205"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Xin Zhao",
@@ -4824,8 +5896,12 @@
         ]
     },
     {
-        "match_id": "7940406648",
-        "winner": "team_1",
+        "match_id": [
+            "7940406648"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -4842,8 +5918,12 @@
         ]
     },
     {
-        "match_id": "7939483837",
-        "winner": "team_1",
+        "match_id": [
+            "7939483837"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Jarvan IV",
@@ -4860,8 +5940,12 @@
         ]
     },
     {
-        "match_id": "7939472059",
-        "winner": "team_2",
+        "match_id": [
+            "7939472059"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Xin Zhao",
@@ -4878,8 +5962,12 @@
         ]
     },
     {
-        "match_id": "7948930435",
-        "winner": "team_2",
+        "match_id": [
+            "7948930435"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Karthus",
@@ -4896,8 +5984,12 @@
         ]
     },
     {
-        "match_id": "7946544393",
-        "winner": "team_2",
+        "match_id": [
+            "7946544393"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Karthus",
@@ -4914,8 +6006,12 @@
         ]
     },
     {
-        "match_id": "7944816930",
-        "winner": "team_2",
+        "match_id": [
+            "7944816930"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Sylas",
@@ -4932,8 +6028,12 @@
         ]
     },
     {
-        "match_id": "7943041366",
-        "winner": "team_2",
+        "match_id": [
+            "7943041366"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aatrox",
             "Malphite",
@@ -4950,8 +6050,12 @@
         ]
     },
     {
-        "match_id": "7941396002",
-        "winner": "team_2",
+        "match_id": [
+            "7941396002"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Wukong",
@@ -4968,26 +6072,12 @@
         ]
     },
     {
-        "match_id": "7949458366",
-        "winner": "team_1",
-        "team_1": [
-            "Ambessa",
-            "Zac",
-            "Taliyah",
-            "Aphelios",
-            "Thresh"
+        "match_id": [
+            "7939812543"
         ],
-        "team_2": [
-            "Gnar",
-            "Dr. Mundo",
-            "Aurora",
-            "Yunara",
-            "Nautilus"
-        ]
-    },
-    {
-        "match_id": "7939812543",
-        "winner": "team_1",
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -5004,26 +6094,12 @@
         ]
     },
     {
-        "match_id": "7949234472",
-        "winner": "team_2",
-        "team_1": [
-            "Ambessa",
-            "Jayce",
-            "Twisted Fate",
-            "Yunara",
-            "Karma"
+        "match_id": [
+            "7938720530"
         ],
-        "team_2": [
-            "Gragas",
-            "Karthus",
-            "Qiyana",
-            "Kai'Sa",
-            "Neeko"
-        ]
-    },
-    {
-        "match_id": "7938720530",
-        "winner": "team_1",
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Riven",
             "Xin Zhao",
@@ -5040,8 +6116,100 @@
         ]
     },
     {
-        "match_id": "7941212660",
-        "winner": "team_2",
+        "match_id": [
+            "7949458366"
+        ],
+        "winner": [
+            "team_1"
+        ],
+        "team_1": [
+            "Ambessa",
+            "Zac",
+            "Taliyah",
+            "Aphelios",
+            "Thresh"
+        ],
+        "team_2": [
+            "Gnar",
+            "Dr. Mundo",
+            "Aurora",
+            "Yunara",
+            "Nautilus"
+        ]
+    },
+    {
+        "match_id": [
+            "7936550253"
+        ],
+        "winner": [
+            "team_1"
+        ],
+        "team_1": [
+            "Mordekaiser",
+            "Aatrox",
+            "Hwei",
+            "Yunara",
+            "Lulu"
+        ],
+        "team_2": [
+            "Zaahen",
+            "Ambessa",
+            "Twisted Fate",
+            "Jhin",
+            "Bard"
+        ]
+    },
+    {
+        "match_id": [
+            "7949234472"
+        ],
+        "winner": [
+            "team_2"
+        ],
+        "team_1": [
+            "Ambessa",
+            "Jayce",
+            "Twisted Fate",
+            "Yunara",
+            "Karma"
+        ],
+        "team_2": [
+            "Gragas",
+            "Karthus",
+            "Qiyana",
+            "Kai'Sa",
+            "Neeko"
+        ]
+    },
+    {
+        "match_id": [
+            "7933772890"
+        ],
+        "winner": [
+            "team_1"
+        ],
+        "team_1": [
+            "Jayce",
+            "Ambessa",
+            "Twisted Fate",
+            "Vel'Koz",
+            "Poppy"
+        ],
+        "team_2": [
+            "Rumble",
+            "Aatrox",
+            "Naafiri",
+            "Yunara",
+            "Rakan"
+        ]
+    },
+    {
+        "match_id": [
+            "7941212660"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Ekko",
@@ -5058,26 +6226,12 @@
         ]
     },
     {
-        "match_id": "7936550253",
-        "winner": "team_1",
-        "team_1": [
-            "Mordekaiser",
-            "Aatrox",
-            "Hwei",
-            "Yunara",
-            "Lulu"
+        "match_id": [
+            "7941132978"
         ],
-        "team_2": [
-            "Zaahen",
-            "Ambessa",
-            "Twisted Fate",
-            "Jhin",
-            "Bard"
-        ]
-    },
-    {
-        "match_id": "7941132978",
-        "winner": "team_1",
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -5094,26 +6248,12 @@
         ]
     },
     {
-        "match_id": "7933772890",
-        "winner": "team_1",
-        "team_1": [
-            "Jayce",
-            "Ambessa",
-            "Twisted Fate",
-            "Vel'Koz",
-            "Poppy"
+        "match_id": [
+            "7936909660"
         ],
-        "team_2": [
-            "Rumble",
-            "Aatrox",
-            "Naafiri",
-            "Yunara",
-            "Rakan"
-        ]
-    },
-    {
-        "match_id": "7936909660",
-        "winner": "team_2",
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Bel'Veth",
@@ -5130,8 +6270,12 @@
         ]
     },
     {
-        "match_id": "7936795831",
-        "winner": "team_2",
+        "match_id": [
+            "7936795831"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gragas",
             "Sylas",
@@ -5148,8 +6292,12 @@
         ]
     },
     {
-        "match_id": "7936700303",
-        "winner": "team_1",
+        "match_id": [
+            "7936700303"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -5166,8 +6314,12 @@
         ]
     },
     {
-        "match_id": "7935078708",
-        "winner": "team_1",
+        "match_id": [
+            "7935078708"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Mordekaiser",
             "Olaf",
@@ -5184,8 +6336,12 @@
         ]
     },
     {
-        "match_id": "7948506440",
-        "winner": "team_1",
+        "match_id": [
+            "7948506440"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Jax",
@@ -5202,8 +6358,12 @@
         ]
     },
     {
-        "match_id": "7948429012",
-        "winner": "team_2",
+        "match_id": [
+            "7948429012"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Kha'Zix",
@@ -5220,8 +6380,12 @@
         ]
     },
     {
-        "match_id": "7944098967",
-        "winner": "team_2",
+        "match_id": [
+            "7944098967"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gwen",
             "Jax",
@@ -5238,8 +6402,12 @@
         ]
     },
     {
-        "match_id": "7944081298",
-        "winner": "team_1",
+        "match_id": [
+            "7944081298"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Olaf",
@@ -5256,8 +6424,12 @@
         ]
     },
     {
-        "match_id": "7943970122",
-        "winner": "team_2",
+        "match_id": [
+            "7943970122"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Kennen",
             "Aatrox",
@@ -5274,8 +6446,12 @@
         ]
     },
     {
-        "match_id": "7950203578",
-        "winner": "team_2",
+        "match_id": [
+            "7950203578"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ryze",
             "Qiyana",
@@ -5292,8 +6468,12 @@
         ]
     },
     {
-        "match_id": "7943602281",
-        "winner": "team_1",
+        "match_id": [
+            "7943602281"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Aatrox",
@@ -5310,8 +6490,12 @@
         ]
     },
     {
-        "match_id": "7947528815",
-        "winner": "team_2",
+        "match_id": [
+            "7947528815"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Jarvan IV",
@@ -5328,8 +6512,12 @@
         ]
     },
     {
-        "match_id": "7943378017",
-        "winner": "team_2",
+        "match_id": [
+            "7943378017"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Olaf",
             "Qiyana",
@@ -5346,8 +6534,12 @@
         ]
     },
     {
-        "match_id": "7945536101",
-        "winner": "team_1",
+        "match_id": [
+            "7945536101"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Zaahen",
@@ -5364,8 +6556,12 @@
         ]
     },
     {
-        "match_id": "7942612156",
-        "winner": "team_2",
+        "match_id": [
+            "7942612156"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Wukong",
@@ -5382,8 +6578,12 @@
         ]
     },
     {
-        "match_id": "7945407473",
-        "winner": "team_1",
+        "match_id": [
+            "7945407473"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -5400,8 +6600,12 @@
         ]
     },
     {
-        "match_id": "7942377757",
-        "winner": "team_1",
+        "match_id": [
+            "7942377757"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -5418,8 +6622,12 @@
         ]
     },
     {
-        "match_id": "7948727165",
-        "winner": "team_2",
+        "match_id": [
+            "7948727165"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Elise",
@@ -5436,8 +6644,12 @@
         ]
     },
     {
-        "match_id": "7948594613",
-        "winner": "team_2",
+        "match_id": [
+            "7948594613"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Quinn",
             "Qiyana",
@@ -5454,8 +6666,12 @@
         ]
     },
     {
-        "match_id": "7948428795",
-        "winner": "team_1",
+        "match_id": [
+            "7948428795"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Nidalee",
@@ -5472,8 +6688,12 @@
         ]
     },
     {
-        "match_id": "7946958828",
-        "winner": "team_1",
+        "match_id": [
+            "7946958828"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -5490,8 +6710,12 @@
         ]
     },
     {
-        "match_id": "7946742271",
-        "winner": "team_2",
+        "match_id": [
+            "7946742271"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Rek'Sai",
@@ -5508,8 +6732,12 @@
         ]
     },
     {
-        "match_id": "7946842958",
-        "winner": "team_1",
+        "match_id": [
+            "7946842958"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Qiyana",
@@ -5526,8 +6754,12 @@
         ]
     },
     {
-        "match_id": "7946238349",
-        "winner": "team_1",
+        "match_id": [
+            "7946238349"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Lee Sin",
@@ -5544,8 +6776,12 @@
         ]
     },
     {
-        "match_id": "7946159234",
-        "winner": "team_1",
+        "match_id": [
+            "7946159234"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Graves",
@@ -5562,8 +6798,12 @@
         ]
     },
     {
-        "match_id": "7946118229",
-        "winner": "team_2",
+        "match_id": [
+            "7946118229"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Ekko",
@@ -5580,8 +6820,12 @@
         ]
     },
     {
-        "match_id": "7946085163",
-        "winner": "team_1",
+        "match_id": [
+            "7946085163"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Qiyana",
@@ -5598,8 +6842,12 @@
         ]
     },
     {
-        "match_id": "7948755609",
-        "winner": "team_2",
+        "match_id": [
+            "7948755609"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -5616,8 +6864,12 @@
         ]
     },
     {
-        "match_id": "7948407407",
-        "winner": "team_1",
+        "match_id": [
+            "7948407407"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Qiyana",
@@ -5634,8 +6886,12 @@
         ]
     },
     {
-        "match_id": "7948326158",
-        "winner": "team_1",
+        "match_id": [
+            "7948326158"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -5652,8 +6908,12 @@
         ]
     },
     {
-        "match_id": "7947498531",
-        "winner": "team_2",
+        "match_id": [
+            "7947498531"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Talon",
@@ -5670,8 +6930,12 @@
         ]
     },
     {
-        "match_id": "7947292405",
-        "winner": "team_1",
+        "match_id": [
+            "7947292405"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Ambessa",
@@ -5688,8 +6952,12 @@
         ]
     },
     {
-        "match_id": "7950048642",
-        "winner": "team_2",
+        "match_id": [
+            "7950048642"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -5706,8 +6974,12 @@
         ]
     },
     {
-        "match_id": "7947384085",
-        "winner": "team_2",
+        "match_id": [
+            "7947384085"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Ambessa",
@@ -5724,8 +6996,12 @@
         ]
     },
     {
-        "match_id": "7950182408",
-        "winner": "team_2",
+        "match_id": [
+            "7950182408"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gnar",
             "Zaahen",
@@ -5742,8 +7018,12 @@
         ]
     },
     {
-        "match_id": "7950149783",
-        "winner": "team_2",
+        "match_id": [
+            "7950149783"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Dr. Mundo",
@@ -5760,8 +7040,12 @@
         ]
     },
     {
-        "match_id": "7948667653",
-        "winner": "team_1",
+        "match_id": [
+            "7948667653"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rek'Sai",
             "Aatrox",
@@ -5778,8 +7062,12 @@
         ]
     },
     {
-        "match_id": "7947535522",
-        "winner": "team_2",
+        "match_id": [
+            "7947535522"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Talon",
@@ -5796,8 +7084,12 @@
         ]
     },
     {
-        "match_id": "7945481213",
-        "winner": "team_2",
+        "match_id": [
+            "7945481213"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Jayce",
@@ -5814,8 +7106,12 @@
         ]
     },
     {
-        "match_id": "7945413761",
-        "winner": "team_1",
+        "match_id": [
+            "7945413761"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Yone",
             "Lee Sin",
@@ -5832,8 +7128,12 @@
         ]
     },
     {
-        "match_id": "7947663210",
-        "winner": "team_1",
+        "match_id": [
+            "7947663210"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sejuani",
             "Sylas",
@@ -5850,8 +7150,12 @@
         ]
     },
     {
-        "match_id": "7943616000",
-        "winner": "team_2",
+        "match_id": [
+            "7943616000"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Ambessa",
@@ -5868,8 +7172,12 @@
         ]
     },
     {
-        "match_id": "7943440143",
-        "winner": "team_2",
+        "match_id": [
+            "7943440143"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Aatrox",
@@ -5886,8 +7194,12 @@
         ]
     },
     {
-        "match_id": "7942514041",
-        "winner": "team_1",
+        "match_id": [
+            "7942514041"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Xin Zhao",
@@ -5904,8 +7216,12 @@
         ]
     },
     {
-        "match_id": "7943480120",
-        "winner": "team_2",
+        "match_id": [
+            "7943480120"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -5922,8 +7238,12 @@
         ]
     },
     {
-        "match_id": "7941615948",
-        "winner": "team_2",
+        "match_id": [
+            "7941615948"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -5940,8 +7260,12 @@
         ]
     },
     {
-        "match_id": "7939753849",
-        "winner": "team_1",
+        "match_id": [
+            "7939753849"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -5958,8 +7282,12 @@
         ]
     },
     {
-        "match_id": "7947188864",
-        "winner": "team_2",
+        "match_id": [
+            "7947188864"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Fiddlesticks",
@@ -5976,8 +7304,12 @@
         ]
     },
     {
-        "match_id": "7947002887",
-        "winner": "team_1",
+        "match_id": [
+            "7947002887"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Riven",
             "Viego",
@@ -5994,8 +7326,12 @@
         ]
     },
     {
-        "match_id": "7946382225",
-        "winner": "team_1",
+        "match_id": [
+            "7946382225"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -6012,8 +7348,12 @@
         ]
     },
     {
-        "match_id": "7947022661",
-        "winner": "team_2",
+        "match_id": [
+            "7947022661"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -6030,8 +7370,12 @@
         ]
     },
     {
-        "match_id": "7945602333",
-        "winner": "team_2",
+        "match_id": [
+            "7945602333"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Ambessa",
@@ -6048,8 +7392,12 @@
         ]
     },
     {
-        "match_id": "7945575066",
-        "winner": "team_2",
+        "match_id": [
+            "7945575066"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -6066,8 +7414,12 @@
         ]
     },
     {
-        "match_id": "7945526108",
-        "winner": "team_1",
+        "match_id": [
+            "7945526108"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Ambessa",
@@ -6084,8 +7436,12 @@
         ]
     },
     {
-        "match_id": "7945180381",
-        "winner": "team_1",
+        "match_id": [
+            "7945180381"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Qiyana",
@@ -6102,8 +7458,12 @@
         ]
     },
     {
-        "match_id": "7947457105",
-        "winner": "team_1",
+        "match_id": [
+            "7947457105"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Ambessa",
@@ -6120,8 +7480,12 @@
         ]
     },
     {
-        "match_id": "7945040456",
-        "winner": "team_1",
+        "match_id": [
+            "7945040456"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -6138,8 +7502,12 @@
         ]
     },
     {
-        "match_id": "7946895186",
-        "winner": "team_1",
+        "match_id": [
+            "7946895186"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Jayce",
@@ -6156,8 +7524,12 @@
         ]
     },
     {
-        "match_id": "7946799361",
-        "winner": "team_1",
+        "match_id": [
+            "7946799361"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Zaahen",
@@ -6174,8 +7546,12 @@
         ]
     },
     {
-        "match_id": "7946416851",
-        "winner": "team_1",
+        "match_id": [
+            "7946416851"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sejuani",
             "Viego",
@@ -6192,8 +7568,12 @@
         ]
     },
     {
-        "match_id": "7946366150",
-        "winner": "team_1",
+        "match_id": [
+            "7946366150"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Zaahen",
@@ -6210,8 +7590,12 @@
         ]
     },
     {
-        "match_id": "7949888498",
-        "winner": "team_2",
+        "match_id": [
+            "7949888498"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Talon",
@@ -6228,8 +7612,12 @@
         ]
     },
     {
-        "match_id": "7949548023",
-        "winner": "team_1",
+        "match_id": [
+            "7949548023"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -6246,8 +7634,12 @@
         ]
     },
     {
-        "match_id": "7944018406",
-        "winner": "team_2",
+        "match_id": [
+            "7944018406"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Rengar",
@@ -6264,8 +7656,12 @@
         ]
     },
     {
-        "match_id": "7943983480",
-        "winner": "team_1",
+        "match_id": [
+            "7943983480"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Lee Sin",
             "Rengar",
@@ -6282,8 +7678,12 @@
         ]
     },
     {
-        "match_id": "7943935795",
-        "winner": "team_1",
+        "match_id": [
+            "7943935795"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gwen",
             "Rengar",
@@ -6300,8 +7700,12 @@
         ]
     },
     {
-        "match_id": "7947143819",
-        "winner": "team_2",
+        "match_id": [
+            "7947143819"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Lee Sin",
@@ -6318,8 +7722,12 @@
         ]
     },
     {
-        "match_id": "7950106382",
-        "winner": "team_2",
+        "match_id": [
+            "7950106382"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jax",
             "Bel'Veth",
@@ -6336,8 +7744,12 @@
         ]
     },
     {
-        "match_id": "7943911414",
-        "winner": "team_1",
+        "match_id": [
+            "7943911414"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rek'Sai",
             "Lee Sin",
@@ -6354,8 +7766,12 @@
         ]
     },
     {
-        "match_id": "7943639545",
-        "winner": "team_2",
+        "match_id": [
+            "7943639545"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -6372,8 +7788,12 @@
         ]
     },
     {
-        "match_id": "7948888868",
-        "winner": "team_1",
+        "match_id": [
+            "7948888868"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -6390,8 +7810,12 @@
         ]
     },
     {
-        "match_id": "7943567295",
-        "winner": "team_1",
+        "match_id": [
+            "7943567295"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Zyra",
@@ -6408,8 +7832,12 @@
         ]
     },
     {
-        "match_id": "7945477605",
-        "winner": "team_1",
+        "match_id": [
+            "7945477605"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Lee Sin",
@@ -6426,8 +7854,12 @@
         ]
     },
     {
-        "match_id": "7943507837",
-        "winner": "team_1",
+        "match_id": [
+            "7943507837"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kennen",
             "Aatrox",
@@ -6444,8 +7876,12 @@
         ]
     },
     {
-        "match_id": "7941812238",
-        "winner": "team_1",
+        "match_id": [
+            "7941812238"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -6462,8 +7898,12 @@
         ]
     },
     {
-        "match_id": "7941768728",
-        "winner": "team_2",
+        "match_id": [
+            "7941768728"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Sylas",
@@ -6480,8 +7920,12 @@
         ]
     },
     {
-        "match_id": "7941598876",
-        "winner": "team_1",
+        "match_id": [
+            "7941598876"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Vayne",
             "Aatrox",
@@ -6498,8 +7942,12 @@
         ]
     },
     {
-        "match_id": "7941487806",
-        "winner": "team_2",
+        "match_id": [
+            "7941487806"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Kled",
             "Sylas",
@@ -6516,8 +7964,12 @@
         ]
     },
     {
-        "match_id": "7940571930",
-        "winner": "team_1",
+        "match_id": [
+            "7940571930"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -6534,8 +7986,12 @@
         ]
     },
     {
-        "match_id": "7940537401",
-        "winner": "team_1",
+        "match_id": [
+            "7940537401"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -6552,8 +8008,12 @@
         ]
     },
     {
-        "match_id": "7947104000",
-        "winner": "team_1",
+        "match_id": [
+            "7947104000"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Elise",
@@ -6570,8 +8030,12 @@
         ]
     },
     {
-        "match_id": "7945619798",
-        "winner": "team_1",
+        "match_id": [
+            "7945619798"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Qiyana",
@@ -6588,8 +8052,12 @@
         ]
     },
     {
-        "match_id": "7945588651",
-        "winner": "team_1",
+        "match_id": [
+            "7945588651"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Qiyana",
@@ -6606,8 +8074,12 @@
         ]
     },
     {
-        "match_id": "7945506994",
-        "winner": "team_2",
+        "match_id": [
+            "7945506994"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Xin Zhao",
@@ -6624,8 +8096,12 @@
         ]
     },
     {
-        "match_id": "7945455641",
-        "winner": "team_2",
+        "match_id": [
+            "7945455641"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Wukong",
@@ -6642,8 +8118,12 @@
         ]
     },
     {
-        "match_id": "7949393762",
-        "winner": "team_2",
+        "match_id": [
+            "7949393762"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Qiyana",
@@ -6660,8 +8140,12 @@
         ]
     },
     {
-        "match_id": "7943659192",
-        "winner": "team_1",
+        "match_id": [
+            "7943659192"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -6678,8 +8162,12 @@
         ]
     },
     {
-        "match_id": "7949145002",
-        "winner": "team_1",
+        "match_id": [
+            "7949145002"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Bel'Veth",
@@ -6696,8 +8184,12 @@
         ]
     },
     {
-        "match_id": "7948404678",
-        "winner": "team_2",
+        "match_id": [
+            "7948404678"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -6714,8 +8206,12 @@
         ]
     },
     {
-        "match_id": "7948881734",
-        "winner": "team_2",
+        "match_id": [
+            "7948881734"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Olaf",
             "Evelynn",
@@ -6732,8 +8228,12 @@
         ]
     },
     {
-        "match_id": "7948796975",
-        "winner": "team_1",
+        "match_id": [
+            "7948796975"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -6750,8 +8250,12 @@
         ]
     },
     {
-        "match_id": "7948675516",
-        "winner": "team_2",
+        "match_id": [
+            "7948675516"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Lee Sin",
@@ -6768,8 +8272,12 @@
         ]
     },
     {
-        "match_id": "7945126366",
-        "winner": "team_1",
+        "match_id": [
+            "7945126366"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Aatrox",
@@ -6786,8 +8294,12 @@
         ]
     },
     {
-        "match_id": "7944972215",
-        "winner": "team_1",
+        "match_id": [
+            "7944972215"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Sylas",
@@ -6804,8 +8316,12 @@
         ]
     },
     {
-        "match_id": "7944897370",
-        "winner": "team_2",
+        "match_id": [
+            "7944897370"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Vayne",
             "Naafiri",
@@ -6822,8 +8338,12 @@
         ]
     },
     {
-        "match_id": "7944710758",
-        "winner": "team_1",
+        "match_id": [
+            "7944710758"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Singed",
             "Xin Zhao",
@@ -6840,8 +8360,12 @@
         ]
     },
     {
-        "match_id": "7942068611",
-        "winner": "team_2",
+        "match_id": [
+            "7942068611"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Malphite",
@@ -6858,8 +8382,12 @@
         ]
     },
     {
-        "match_id": "7943391228",
-        "winner": "team_2",
+        "match_id": [
+            "7943391228"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Zyra",
@@ -6876,8 +8404,12 @@
         ]
     },
     {
-        "match_id": "7941013470",
-        "winner": "team_1",
+        "match_id": [
+            "7941013470"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Jayce",
@@ -6894,8 +8426,12 @@
         ]
     },
     {
-        "match_id": "7940971734",
-        "winner": "team_2",
+        "match_id": [
+            "7940971734"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Viego",
@@ -6912,8 +8448,12 @@
         ]
     },
     {
-        "match_id": "7940195371",
-        "winner": "team_1",
+        "match_id": [
+            "7940195371"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Zyra",
@@ -6930,8 +8470,12 @@
         ]
     },
     {
-        "match_id": "7948187517",
-        "winner": "team_1",
+        "match_id": [
+            "7948187517"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sejuani",
             "Nidalee",
@@ -6948,8 +8492,12 @@
         ]
     },
     {
-        "match_id": "7948117946",
-        "winner": "team_1",
+        "match_id": [
+            "7948117946"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Ekko",
@@ -6966,8 +8514,12 @@
         ]
     },
     {
-        "match_id": "7948072310",
-        "winner": "team_2",
+        "match_id": [
+            "7948072310"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Singed",
             "Talon",
@@ -6984,8 +8536,12 @@
         ]
     },
     {
-        "match_id": "7948035309",
-        "winner": "team_2",
+        "match_id": [
+            "7948035309"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Neeko",
             "Talon",
@@ -7002,8 +8558,12 @@
         ]
     },
     {
-        "match_id": "7949954520",
-        "winner": "team_2",
+        "match_id": [
+            "7949954520"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -7020,8 +8580,12 @@
         ]
     },
     {
-        "match_id": "7948721276",
-        "winner": "team_2",
+        "match_id": [
+            "7948721276"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Fiora",
             "Kindred",
@@ -7038,8 +8602,12 @@
         ]
     },
     {
-        "match_id": "7948578352",
-        "winner": "team_2",
+        "match_id": [
+            "7948578352"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Olaf",
             "Aatrox",
@@ -7056,8 +8624,12 @@
         ]
     },
     {
-        "match_id": "7948459673",
-        "winner": "team_2",
+        "match_id": [
+            "7948459673"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Elise",
@@ -7074,8 +8646,12 @@
         ]
     },
     {
-        "match_id": "7943453634",
-        "winner": "team_1",
+        "match_id": [
+            "7943453634"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Ambessa",
@@ -7092,8 +8668,12 @@
         ]
     },
     {
-        "match_id": "7945573590",
-        "winner": "team_2",
+        "match_id": [
+            "7945573590"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -7110,8 +8690,12 @@
         ]
     },
     {
-        "match_id": "7945549663",
-        "winner": "team_1",
+        "match_id": [
+            "7945549663"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Kled",
             "Zac",
@@ -7128,8 +8712,12 @@
         ]
     },
     {
-        "match_id": "7944862610",
-        "winner": "team_2",
+        "match_id": [
+            "7944862610"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Vladimir",
             "Naafiri",
@@ -7146,8 +8734,12 @@
         ]
     },
     {
-        "match_id": "7944774211",
-        "winner": "team_1",
+        "match_id": [
+            "7944774211"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Zyra",
@@ -7164,8 +8756,12 @@
         ]
     },
     {
-        "match_id": "7944605977",
-        "winner": "team_1",
+        "match_id": [
+            "7944605977"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Singed",
             "Aatrox",
@@ -7182,8 +8778,12 @@
         ]
     },
     {
-        "match_id": "7942775936",
-        "winner": "team_2",
+        "match_id": [
+            "7942775936"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Xin Zhao",
@@ -7200,8 +8800,12 @@
         ]
     },
     {
-        "match_id": "7942727513",
-        "winner": "team_2",
+        "match_id": [
+            "7942727513"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Zyra",
@@ -7218,8 +8822,12 @@
         ]
     },
     {
-        "match_id": "7942664171",
-        "winner": "team_1",
+        "match_id": [
+            "7942664171"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -7236,8 +8844,12 @@
         ]
     },
     {
-        "match_id": "7942616640",
-        "winner": "team_2",
+        "match_id": [
+            "7942616640"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jarvan IV",
@@ -7254,26 +8866,12 @@
         ]
     },
     {
-        "match_id": "7942544242",
-        "winner": "team_1",
-        "team_1": [
-            "Zaahen",
-            "Diana",
-            "Orianna",
-            "Tristana",
-            "Pyke"
+        "match_id": [
+            "7948076521"
         ],
-        "team_2": [
-            "Darius",
-            "Nidalee",
-            "Ryze",
-            "Ezreal",
-            "Elise"
-        ]
-    },
-    {
-        "match_id": "7948076521",
-        "winner": "team_2",
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Camille",
             "Aatrox",
@@ -7290,8 +8888,34 @@
         ]
     },
     {
-        "match_id": "7946269176",
-        "winner": "team_2",
+        "match_id": [
+            "7942544242"
+        ],
+        "winner": [
+            "team_1"
+        ],
+        "team_1": [
+            "Zaahen",
+            "Diana",
+            "Orianna",
+            "Tristana",
+            "Pyke"
+        ],
+        "team_2": [
+            "Darius",
+            "Nidalee",
+            "Ryze",
+            "Ezreal",
+            "Elise"
+        ]
+    },
+    {
+        "match_id": [
+            "7946269176"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Qiyana",
@@ -7308,8 +8932,12 @@
         ]
     },
     {
-        "match_id": "7944545090",
-        "winner": "team_1",
+        "match_id": [
+            "7944545090"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Graves",
@@ -7326,8 +8954,12 @@
         ]
     },
     {
-        "match_id": "7946417418",
-        "winner": "team_1",
+        "match_id": [
+            "7946417418"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Lee Sin",
@@ -7344,8 +8976,12 @@
         ]
     },
     {
-        "match_id": "7945501698",
-        "winner": "team_1",
+        "match_id": [
+            "7945501698"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -7362,8 +8998,12 @@
         ]
     },
     {
-        "match_id": "7945369697",
-        "winner": "team_1",
+        "match_id": [
+            "7945369697"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Aurora",
             "Qiyana",
@@ -7380,8 +9020,12 @@
         ]
     },
     {
-        "match_id": "7945220207",
-        "winner": "team_1",
+        "match_id": [
+            "7945220207"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jayce",
             "Ambessa",
@@ -7398,8 +9042,12 @@
         ]
     },
     {
-        "match_id": "7943522372",
-        "winner": "team_1",
+        "match_id": [
+            "7943522372"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Lee Sin",
@@ -7416,8 +9064,12 @@
         ]
     },
     {
-        "match_id": "7947361484",
-        "winner": "team_1",
+        "match_id": [
+            "7947361484"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Yone",
             "Rengar",
@@ -7434,8 +9086,12 @@
         ]
     },
     {
-        "match_id": "7946917452",
-        "winner": "team_2",
+        "match_id": [
+            "7946917452"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Zaahen",
@@ -7452,8 +9108,12 @@
         ]
     },
     {
-        "match_id": "7946374141",
-        "winner": "team_1",
+        "match_id": [
+            "7946374141"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Fiddlesticks",
@@ -7470,8 +9130,12 @@
         ]
     },
     {
-        "match_id": "7946318410",
-        "winner": "team_1",
+        "match_id": [
+            "7946318410"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Dr. Mundo",
             "Ambessa",
@@ -7488,8 +9152,12 @@
         ]
     },
     {
-        "match_id": "7946209051",
-        "winner": "team_2",
+        "match_id": [
+            "7946209051"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Volibear",
             "Karthus",
@@ -7506,8 +9174,12 @@
         ]
     },
     {
-        "match_id": "7946164882",
-        "winner": "team_2",
+        "match_id": [
+            "7946164882"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Lee Sin",
@@ -7524,8 +9196,12 @@
         ]
     },
     {
-        "match_id": "7941922266",
-        "winner": "team_2",
+        "match_id": [
+            "7941922266"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Viego",
@@ -7542,8 +9218,12 @@
         ]
     },
     {
-        "match_id": "7941907261",
-        "winner": "team_2",
+        "match_id": [
+            "7941907261"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Aatrox",
@@ -7560,8 +9240,12 @@
         ]
     },
     {
-        "match_id": "7941877452",
-        "winner": "team_1",
+        "match_id": [
+            "7941877452"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",
@@ -7578,8 +9262,12 @@
         ]
     },
     {
-        "match_id": "7948730951",
-        "winner": "team_2",
+        "match_id": [
+            "7948730951"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Cassiopeia",
             "Aatrox",
@@ -7596,8 +9284,12 @@
         ]
     },
     {
-        "match_id": "7946813518",
-        "winner": "team_1",
+        "match_id": [
+            "7946813518"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Riven",
             "Dr. Mundo",
@@ -7614,8 +9306,12 @@
         ]
     },
     {
-        "match_id": "7939804118",
-        "winner": "team_2",
+        "match_id": [
+            "7939804118"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Kled",
             "Qiyana",
@@ -7632,8 +9328,12 @@
         ]
     },
     {
-        "match_id": "7939603750",
-        "winner": "team_1",
+        "match_id": [
+            "7939603750"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Rengar",
@@ -7650,8 +9350,12 @@
         ]
     },
     {
-        "match_id": "7939571954",
-        "winner": "team_2",
+        "match_id": [
+            "7939571954"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Darius",
             "Aatrox",
@@ -7668,8 +9372,12 @@
         ]
     },
     {
-        "match_id": "7928266227",
-        "winner": "team_2",
+        "match_id": [
+            "7928266227"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gwen",
             "Aatrox",
@@ -7686,8 +9394,12 @@
         ]
     },
     {
-        "match_id": "7928220427",
-        "winner": "team_2",
+        "match_id": [
+            "7928220427"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Qiyana",
@@ -7704,8 +9416,12 @@
         ]
     },
     {
-        "match_id": "7928168532",
-        "winner": "team_2",
+        "match_id": [
+            "7928168532"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Dr. Mundo",
@@ -7722,8 +9438,12 @@
         ]
     },
     {
-        "match_id": "7948857132",
-        "winner": "team_2",
+        "match_id": [
+            "7948857132"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Darius",
@@ -7740,8 +9460,12 @@
         ]
     },
     {
-        "match_id": "7949332786",
-        "winner": "team_2",
+        "match_id": [
+            "7949332786"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Aurora",
             "Aatrox",
@@ -7758,8 +9482,12 @@
         ]
     },
     {
-        "match_id": "7944304554",
-        "winner": "team_2",
+        "match_id": [
+            "7944304554"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -7776,8 +9504,12 @@
         ]
     },
     {
-        "match_id": "7944279003",
-        "winner": "team_1",
+        "match_id": [
+            "7944279003"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -7794,8 +9526,12 @@
         ]
     },
     {
-        "match_id": "7944187943",
-        "winner": "team_1",
+        "match_id": [
+            "7944187943"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gragas",
             "Elise",
@@ -7812,8 +9548,12 @@
         ]
     },
     {
-        "match_id": "7942459522",
-        "winner": "team_2",
+        "match_id": [
+            "7942459522"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Jayce",
             "Sylas",
@@ -7830,8 +9570,12 @@
         ]
     },
     {
-        "match_id": "7942390824",
-        "winner": "team_1",
+        "match_id": [
+            "7942390824"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Lee Sin",
@@ -7848,8 +9592,12 @@
         ]
     },
     {
-        "match_id": "7940923581",
-        "winner": "team_2",
+        "match_id": [
+            "7940923581"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -7866,8 +9614,12 @@
         ]
     },
     {
-        "match_id": "7939544206",
-        "winner": "team_2",
+        "match_id": [
+            "7939544206"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -7884,8 +9636,12 @@
         ]
     },
     {
-        "match_id": "7946269446",
-        "winner": "team_1",
+        "match_id": [
+            "7946269446"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Xin Zhao",
@@ -7902,8 +9658,12 @@
         ]
     },
     {
-        "match_id": "7946152363",
-        "winner": "team_1",
+        "match_id": [
+            "7946152363"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Qiyana",
@@ -7920,8 +9680,12 @@
         ]
     },
     {
-        "match_id": "7944328706",
-        "winner": "team_1",
+        "match_id": [
+            "7944328706"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sejuani",
             "Ambessa",
@@ -7938,8 +9702,12 @@
         ]
     },
     {
-        "match_id": "7944271870",
-        "winner": "team_2",
+        "match_id": [
+            "7944271870"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Darius",
             "Qiyana",
@@ -7956,8 +9724,12 @@
         ]
     },
     {
-        "match_id": "7944194098",
-        "winner": "team_1",
+        "match_id": [
+            "7944194098"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Malphite",
@@ -7974,8 +9746,12 @@
         ]
     },
     {
-        "match_id": "7946999090",
-        "winner": "team_2",
+        "match_id": [
+            "7946999090"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Darius",
@@ -7992,8 +9768,12 @@
         ]
     },
     {
-        "match_id": "7942825936",
-        "winner": "team_1",
+        "match_id": [
+            "7942825936"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Sylas",
@@ -8010,8 +9790,12 @@
         ]
     },
     {
-        "match_id": "7946863759",
-        "winner": "team_2",
+        "match_id": [
+            "7946863759"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Karthus",
@@ -8028,8 +9812,12 @@
         ]
     },
     {
-        "match_id": "7935311878",
-        "winner": "team_1",
+        "match_id": [
+            "7935311878"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Irelia",
             "Jayce",
@@ -8046,8 +9834,12 @@
         ]
     },
     {
-        "match_id": "7934935134",
-        "winner": "team_2",
+        "match_id": [
+            "7934935134"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Riven",
             "Darius",
@@ -8064,8 +9856,12 @@
         ]
     },
     {
-        "match_id": "7934829219",
-        "winner": "team_1",
+        "match_id": [
+            "7934829219"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Ambessa",
@@ -8082,8 +9878,12 @@
         ]
     },
     {
-        "match_id": "7934755546",
-        "winner": "team_1",
+        "match_id": [
+            "7934755546"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Taliyah",
@@ -8100,8 +9900,12 @@
         ]
     },
     {
-        "match_id": "7934646731",
-        "winner": "team_1",
+        "match_id": [
+            "7934646731"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Irelia",
             "Bel'Veth",
@@ -8118,8 +9922,12 @@
         ]
     },
     {
-        "match_id": "7934594534",
-        "winner": "team_2",
+        "match_id": [
+            "7934594534"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Irelia",
             "Karthus",
@@ -8136,8 +9944,12 @@
         ]
     },
     {
-        "match_id": "7933459031",
-        "winner": "team_1",
+        "match_id": [
+            "7933459031"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -8154,8 +9966,12 @@
         ]
     },
     {
-        "match_id": "7941791667",
-        "winner": "team_1",
+        "match_id": [
+            "7941791667"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Aatrox",
@@ -8172,8 +9988,12 @@
         ]
     },
     {
-        "match_id": "7941743313",
-        "winner": "team_1",
+        "match_id": [
+            "7941743313"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Fiora",
             "Aatrox",
@@ -8190,8 +10010,12 @@
         ]
     },
     {
-        "match_id": "7941655233",
-        "winner": "team_1",
+        "match_id": [
+            "7941655233"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Olaf",
             "Qiyana",
@@ -8208,8 +10032,12 @@
         ]
     },
     {
-        "match_id": "7940462227",
-        "winner": "team_1",
+        "match_id": [
+            "7940462227"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Viego",
@@ -8226,8 +10054,12 @@
         ]
     },
     {
-        "match_id": "7940385555",
-        "winner": "team_2",
+        "match_id": [
+            "7940385555"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Naafiri",
@@ -8244,8 +10076,12 @@
         ]
     },
     {
-        "match_id": "7948606580",
-        "winner": "team_2",
+        "match_id": [
+            "7948606580"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ambessa",
             "Karthus",
@@ -8262,8 +10098,12 @@
         ]
     },
     {
-        "match_id": "7947823265",
-        "winner": "team_2",
+        "match_id": [
+            "7947823265"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Renekton",
             "Bel'Veth",
@@ -8280,8 +10120,12 @@
         ]
     },
     {
-        "match_id": "7947749469",
-        "winner": "team_1",
+        "match_id": [
+            "7947749469"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Cassiopeia",
             "Viego",
@@ -8298,8 +10142,12 @@
         ]
     },
     {
-        "match_id": "7948127952",
-        "winner": "team_1",
+        "match_id": [
+            "7948127952"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Lee Sin",
@@ -8316,8 +10164,12 @@
         ]
     },
     {
-        "match_id": "7948075602",
-        "winner": "team_1",
+        "match_id": [
+            "7948075602"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Pantheon",
             "Lee Sin",
@@ -8334,8 +10186,12 @@
         ]
     },
     {
-        "match_id": "7947963837",
-        "winner": "team_1",
+        "match_id": [
+            "7947963837"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "K'Sante",
             "Qiyana",
@@ -8352,8 +10208,12 @@
         ]
     },
     {
-        "match_id": "7947906025",
-        "winner": "team_2",
+        "match_id": [
+            "7947906025"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -8370,8 +10230,12 @@
         ]
     },
     {
-        "match_id": "7947878029",
-        "winner": "team_1",
+        "match_id": [
+            "7947878029"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Diana",
             "Ambessa",
@@ -8388,8 +10252,12 @@
         ]
     },
     {
-        "match_id": "7947848239",
-        "winner": "team_2",
+        "match_id": [
+            "7947848239"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Irelia",
             "Aatrox",
@@ -8406,8 +10274,12 @@
         ]
     },
     {
-        "match_id": "7947813121",
-        "winner": "team_2",
+        "match_id": [
+            "7947813121"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -8424,8 +10296,12 @@
         ]
     },
     {
-        "match_id": "7947588018",
-        "winner": "team_2",
+        "match_id": [
+            "7947588018"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Bel'Veth",
@@ -8442,8 +10318,12 @@
         ]
     },
     {
-        "match_id": "7945628374",
-        "winner": "team_1",
+        "match_id": [
+            "7945628374"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -8460,8 +10340,12 @@
         ]
     },
     {
-        "match_id": "7944165979",
-        "winner": "team_1",
+        "match_id": [
+            "7944165979"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Aatrox",
@@ -8478,8 +10362,12 @@
         ]
     },
     {
-        "match_id": "7944123442",
-        "winner": "team_2",
+        "match_id": [
+            "7944123442"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Lee Sin",
             "Jayce",
@@ -8496,8 +10384,12 @@
         ]
     },
     {
-        "match_id": "7943537134",
-        "winner": "team_1",
+        "match_id": [
+            "7943537134"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Ambessa",
             "Jayce",
@@ -8514,8 +10406,12 @@
         ]
     },
     {
-        "match_id": "7943483896",
-        "winner": "team_1",
+        "match_id": [
+            "7943483896"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Gnar",
             "Zaahen",
@@ -8532,8 +10428,12 @@
         ]
     },
     {
-        "match_id": "7943422240",
-        "winner": "team_2",
+        "match_id": [
+            "7943422240"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -8550,8 +10450,12 @@
         ]
     },
     {
-        "match_id": "7940944461",
-        "winner": "team_1",
+        "match_id": [
+            "7940944461"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Aatrox",
@@ -8568,8 +10472,12 @@
         ]
     },
     {
-        "match_id": "7940919145",
-        "winner": "team_2",
+        "match_id": [
+            "7940919145"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jayce",
@@ -8586,8 +10494,12 @@
         ]
     },
     {
-        "match_id": "7946428223",
-        "winner": "team_1",
+        "match_id": [
+            "7946428223"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Qiyana",
@@ -8604,8 +10516,12 @@
         ]
     },
     {
-        "match_id": "7946377975",
-        "winner": "team_2",
+        "match_id": [
+            "7946377975"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Rumble",
             "Zaahen",
@@ -8622,8 +10538,12 @@
         ]
     },
     {
-        "match_id": "7944416131",
-        "winner": "team_1",
+        "match_id": [
+            "7944416131"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Lee Sin",
@@ -8640,8 +10560,12 @@
         ]
     },
     {
-        "match_id": "7944347467",
-        "winner": "team_1",
+        "match_id": [
+            "7944347467"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rumble",
             "Ambessa",
@@ -8658,8 +10582,12 @@
         ]
     },
     {
-        "match_id": "7943659737",
-        "winner": "team_2",
+        "match_id": [
+            "7943659737"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Gnar",
             "Ambessa",
@@ -8676,8 +10604,12 @@
         ]
     },
     {
-        "match_id": "7945371200",
-        "winner": "team_2",
+        "match_id": [
+            "7945371200"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Ornn",
             "Aatrox",
@@ -8694,8 +10626,12 @@
         ]
     },
     {
-        "match_id": "7944870337",
-        "winner": "team_1",
+        "match_id": [
+            "7944870337"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Aatrox",
@@ -8712,8 +10648,12 @@
         ]
     },
     {
-        "match_id": "7941458976",
-        "winner": "team_2",
+        "match_id": [
+            "7941458976"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Master Yi",
@@ -8730,8 +10670,12 @@
         ]
     },
     {
-        "match_id": "7947355662",
-        "winner": "team_1",
+        "match_id": [
+            "7947355662"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Fiddlesticks",
@@ -8748,8 +10692,12 @@
         ]
     },
     {
-        "match_id": "7942734584",
-        "winner": "team_1",
+        "match_id": [
+            "7942734584"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Sylas",
@@ -8766,8 +10714,12 @@
         ]
     },
     {
-        "match_id": "7936994735",
-        "winner": "team_1",
+        "match_id": [
+            "7936994735"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Zaahen",
             "Viego",
@@ -8784,8 +10736,12 @@
         ]
     },
     {
-        "match_id": "7936796420",
-        "winner": "team_2",
+        "match_id": [
+            "7936796420"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Jarvan IV",
@@ -8802,8 +10758,12 @@
         ]
     },
     {
-        "match_id": "7935411766",
-        "winner": "team_2",
+        "match_id": [
+            "7935411766"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Zaahen",
             "Lee Sin",
@@ -8820,8 +10780,12 @@
         ]
     },
     {
-        "match_id": "7933375723",
-        "winner": "team_2",
+        "match_id": [
+            "7933375723"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Darius",
             "Karthus",
@@ -8838,8 +10802,12 @@
         ]
     },
     {
-        "match_id": "7950202448",
-        "winner": "team_1",
+        "match_id": [
+            "7950202448"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rek'Sai",
             "Master Yi",
@@ -8856,8 +10824,12 @@
         ]
     },
     {
-        "match_id": "7946259688",
-        "winner": "team_1",
+        "match_id": [
+            "7946259688"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Darius",
             "Ambessa",
@@ -8874,8 +10846,12 @@
         ]
     },
     {
-        "match_id": "7932172363",
-        "winner": "team_1",
+        "match_id": [
+            "7932172363"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Sylas",
@@ -8892,8 +10868,12 @@
         ]
     },
     {
-        "match_id": "7948695232",
-        "winner": "team_2",
+        "match_id": [
+            "7948695232"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "K'Sante",
             "Evelynn",
@@ -8910,8 +10890,12 @@
         ]
     },
     {
-        "match_id": "7948529136",
-        "winner": "team_2",
+        "match_id": [
+            "7948529136"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sion",
             "Elise",
@@ -8928,8 +10912,12 @@
         ]
     },
     {
-        "match_id": "7946182292",
-        "winner": "team_2",
+        "match_id": [
+            "7946182292"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Darius",
             "Zaahen",
@@ -8946,8 +10934,12 @@
         ]
     },
     {
-        "match_id": "7946143198",
-        "winner": "team_1",
+        "match_id": [
+            "7946143198"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Tryndamere",
             "Karthus",
@@ -8964,8 +10956,12 @@
         ]
     },
     {
-        "match_id": "7946004414",
-        "winner": "team_1",
+        "match_id": [
+            "7946004414"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Aatrox",
@@ -8982,8 +10978,12 @@
         ]
     },
     {
-        "match_id": "7945285496",
-        "winner": "team_2",
+        "match_id": [
+            "7945285496"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Sejuani",
             "Qiyana",
@@ -9000,8 +11000,12 @@
         ]
     },
     {
-        "match_id": "7948042745",
-        "winner": "team_1",
+        "match_id": [
+            "7948042745"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Malphite",
             "Ekko",
@@ -9018,8 +11022,12 @@
         ]
     },
     {
-        "match_id": "7947889480",
-        "winner": "team_1",
+        "match_id": [
+            "7947889480"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Jax",
             "Karthus",
@@ -9036,8 +11044,12 @@
         ]
     },
     {
-        "match_id": "7947732195",
-        "winner": "team_2",
+        "match_id": [
+            "7947732195"
+        ],
+        "winner": [
+            "team_2"
+        ],
         "team_1": [
             "Viktor",
             "Fiddlesticks",
@@ -9054,8 +11066,12 @@
         ]
     },
     {
-        "match_id": "7944658866",
-        "winner": "team_1",
+        "match_id": [
+            "7944658866"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Rengar",
             "Nunu & Willump",
@@ -9072,8 +11088,12 @@
         ]
     },
     {
-        "match_id": "7944248141",
-        "winner": "team_1",
+        "match_id": [
+            "7944248141"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Renekton",
             "Karthus",
@@ -9090,8 +11110,12 @@
         ]
     },
     {
-        "match_id": "7939546733",
-        "winner": "team_1",
+        "match_id": [
+            "7939546733"
+        ],
+        "winner": [
+            "team_1"
+        ],
         "team_1": [
             "Sion",
             "Aatrox",

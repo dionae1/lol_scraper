@@ -1,6 +1,8 @@
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+from scrapy.loader import ItemLoader
+from lol_scraper.items import LeagueOfGraphsItem
 
 
 class LeagueofgraphsSpider(CrawlSpider):
@@ -35,9 +37,9 @@ class LeagueofgraphsSpider(CrawlSpider):
         self.id_set = set()
 
     def parse_profile(self, response):
-        profile = response.css("h1.bg-black::text").get()
-
+        profile_name = response.css("h1.bg-black::text").get()
         rows = response.xpath("//table[contains(@class,'recentGamesTable')]//tr[td]")
+
         for row in rows:
             match_id = row.css("a::attr(href)").get()
             match_id = match_id.split("/")[-1].split("#")[0] if match_id else None
@@ -46,14 +48,12 @@ class LeagueofgraphsSpider(CrawlSpider):
                 continue
 
             self.id_set.add(match_id)
+
             gamemode = row.css("div.gameMode::text").get()
             if not gamemode or "Soloqueue" not in gamemode:
                 continue
 
             result = row.css("div.victoryDefeatText::text").get()
-            if not result:
-                continue
-
             winner = "team_1" if "Victory" in result else "team_2"
 
             team_1 = row.css(
@@ -63,24 +63,10 @@ class LeagueofgraphsSpider(CrawlSpider):
                 "div.summonerColumn:nth-of-type(2) img::attr(title)"
             ).getall()
 
-            yield {
-                "match_id": match_id,
-                "winner": winner,
-                "team_1": team_1,
-                "team_2": team_2,
-            }
+            loader = ItemLoader(item=LeagueOfGraphsItem(), selector=row)
+            loader.add_value("match_id", match_id)
+            loader.add_value("winner", winner)
+            loader.add_value("team_1", team_1)
+            loader.add_value("team_2", team_2)
 
-    def parse_game(self, response):
-        """
-        ally comp = response.css("div.summonerColumn:nth-of-type(1)").get()
-        enemy comp = response.css("div.summonerColumn:nth-of-type(2)").get()
-        """
-        yield {
-            "game_url": response.url,
-            "team_1": response.css(
-                "div.summonerColumn:nth-of-type(1) div.summonerName::text"
-            ).getall(),
-            "team_2": response.css(
-                "div.summonerColumn:nth-of-type(2) div.summonerName::text"
-            ).getall(),
-        }
+            yield loader.load_item()
