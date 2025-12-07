@@ -18,6 +18,8 @@ pip install scrapy
 
 Navigate to the project directory and run the spider:
 
+The following code will create a sqlite database.
+
 ```bash
 cd lol_scraper
 scrapy crawl leagueofgraphs
