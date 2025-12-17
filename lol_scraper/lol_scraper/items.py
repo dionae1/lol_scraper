@@ -11,8 +11,8 @@ from itemloaders.processors import TakeFirst, Join
 class LeagueOfGraphsItem(scrapy.Item):
     match_id = scrapy.Field()
     winner = scrapy.Field()
-    team_1 = scrapy.Field()
-    team_2 = scrapy.Field()
+    blue_team = scrapy.Field()
+    red_team = scrapy.Field()
 
 
 class LeagueOfGraphsLoader(ItemLoader):

@@ -55,15 +55,31 @@ class LeagueofgraphsSpider(CrawlSpider):
             return
 
         result = row.css("div.victoryDefeatText::text").get()
-        winner = "team_1" if "Victory" in result else "team_2"
+        player_won = result and "Victory" in result
 
-        team_1 = row.css("div.summonerColumn:nth-of-type(1) img::attr(title)").getall()
-        team_2 = row.css("div.summonerColumn:nth-of-type(2) img::attr(title)").getall()
+        player_in_blue = bool(
+            row.css("div.summonerColumn:nth-of-type(1) .selected img::attr(title)")
+        )
+        player_in_red = bool(
+            row.css("div.summonerColumn:nth-of-type(2) .selected img::attr(title)")
+        )
+
+        if not (player_in_blue or player_in_red):
+            winner = None
+            print(f"Could not determine player's team for match {match_id}")
+        else:
+            if player_won:
+                winner = "blue" if player_in_blue else "red"
+            else:
+                winner = "red" if player_in_blue else "blue"
+
+        blue_team = row.css("div.summonerColumn:nth-of-type(1) img::attr(title)").getall()
+        red_team = row.css("div.summonerColumn:nth-of-type(2) img::attr(title)").getall()
 
         loader = LeagueOfGraphsLoader(item=LeagueOfGraphsItem(), selector=row)
         loader.add_value("match_id", match_id)
         loader.add_value("winner", winner)
-        loader.add_value("team_1", team_1)
-        loader.add_value("team_2", team_2)
+        loader.add_value("blue_team", blue_team)
+        loader.add_value("red_team", red_team)
 
         yield loader.load_item()
