@@ -11,11 +11,18 @@ class SQLitePipeline:
     def create_table(self):
         self.cur.execute(
             """
-            CREATE TABLE IF NOT EXISTS matches(
-                match_id TEXT PRIMARY KEY,
-                winner TEXT,
-                team_1 TEXT,
-                team_2 TEXT
+            CREATE TABLE IF NOT EXISTS matches
+            (
+                match_id
+                TEXT
+                PRIMARY
+                KEY,
+                winner
+                TEXT,
+                team_1
+                TEXT,
+                team_2
+                TEXT
             )
             """
         )
@@ -41,7 +48,8 @@ class SQLitePipeline:
 
         self.cur.execute(
             """
-            INSERT OR IGNORE INTO matches (match_id, winner, team_1, team_2)
+            INSERT
+            OR IGNORE INTO matches (match_id, winner, team_1, team_2)
             VALUES (?, ?, ?, ?)
             """,
             (

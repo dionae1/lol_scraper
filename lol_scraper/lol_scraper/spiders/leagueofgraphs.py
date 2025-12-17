@@ -1,8 +1,7 @@
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from scrapy.loader import ItemLoader
-from lol_scraper.items import LeagueOfGraphsItem
+from ..items import LeagueOfGraphsItem, LeagueOfGraphsLoader
 
 
 class LeagueofgraphsSpider(CrawlSpider):
@@ -61,7 +60,7 @@ class LeagueofgraphsSpider(CrawlSpider):
         team_1 = row.css("div.summonerColumn:nth-of-type(1) img::attr(title)").getall()
         team_2 = row.css("div.summonerColumn:nth-of-type(2) img::attr(title)").getall()
 
-        loader = ItemLoader(item=LeagueOfGraphsItem(), selector=row)
+        loader = LeagueOfGraphsLoader(item=LeagueOfGraphsItem(), selector=row)
         loader.add_value("match_id", match_id)
         loader.add_value("winner", winner)
         loader.add_value("team_1", team_1)
